@@ -1,0 +1,45 @@
+{
+	"Name": "Hasan Ali Yücel",
+	"Desc": "Türk felsefe öğretmeni, eski millî eğitim bakanı, Köy Enstitüleri'nin kurucusu",
+	"Period": "Republic",
+	"Lifetime": [ 1897, 1961 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ 145, 10 ],
+		"Color": [ 231, 196, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Doğum Yeri ve Tarihi: İstanbul, Osmanlı İmparatorluğu - 17 Aralık 1897\n• Eğitimi ve Akademik Kariyeri:\n----> İstanbul Üniversitesi Edebiyat Fakültesi Felsefe Bölümü'nden mezun oldu (1919).\n----> Öğretmenlik yaptı ve eğitim alanında önemli reformlara imza attı.\n----> Millî Eğitim Bakanlığı görevini üstlendi (1938-1946).\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n----> Hasan Âli Yücel’in felsefesi hürriyet, eğitim ve hümanizm kavramları üzerine kuruludur.\n--------> Hürriyet: Ona göre gerçek özgürlük, insanın kendi başına düşünmeye başlamasıyla mümkündürn--------> Eğitim Felsefesi: Eğitim, bireyin özgür düşünmesini sağlamalıd.\n--------> Hümanizm: İnsan sevgisi ve kültürel gelişim onun düşüncelerinin temelini oluşturur.\n• Akademik ve Kültürel Katkıları:\n----> Köy Enstitüleri'nin kurucusu olarak eğitimde büyük reformlar gerçekleştirdi.\n----> Türk Dili Tetkik Cemiyeti'nin etimoloji kolu başkanlığını yaptı.\n----> Dünya klasiklerini Türkçeye kazandırarak kültürel gelişime katkı sağladı.\n• Önemli Eserleri:\n----> Türk Edebiyatı Tarihi\n----> Goethe: Bir Dehanın Romanı\n----> İçtimaiyat Dersleri"
+		},
+		"1": {
+			"Header": "Yaşamı",
+			"Content": "Hasan Âli Yücel, 17 Aralık 1897'de İstanbul'da doğdu. Baba tarafından Posta Nazırı Giresun, Göreleli Hasan Ali Efendi'nin, anne tarafından ise Japon sularında batan Ertuğrul Fırkateyni süvarisi deniz albay Ali Bey'in torunudur. Babası Ali Rıza Bey, annesi Neyyire Hanım'dır. Eğitim yaşamını sırasıyla Mekteb-i Osmânî, Vefâ İdâdîsi, Cağaloğlu Darülmuallimîn-i Aliyye (Yüksek öğretmen okulu) okullarında sürdürdü. Bir süre İstanbul Üniversitesi Hukuk Fakültesi'nde hukuk öğrenimi gördü. 1919 yılında bu fakülteden ayrılıp İstanbul Üniversitesi Edebiyat Fakültesi Felsefe Bölümü'nü bitirdi ve 19 Aralık 1922'de öğretmenliğe başladı. 12 Temmuz 1932 tarihinde Türk Dili Tetkik Cemiyeti'nin kurulmasıyla Hasan Âli Yücel etimoloji kolu başkanlığına getirildi. 1935 yılında Cumhuriyet Halk Partisi'nden İzmir milletvekili olarak meclise girdi ve art arda dört dönem milletvekilliği yaptı.\n\nOğlu şâir Can Yücel, babası için \"Hayatta ben en çok babamı sevdim\" başlıklı bir şiir yazmıştır."
+		},
+		"2": {
+			"Header": "Ölümü",
+			"Content": "Hasan Ali Yücel; 26 Şubat 1961 sabahı, İstanbul'da misafir olarak kaldığı Prof.Dr. Tevfik Sağlam'ın evinde enfarktüs'ten vefat eder. Cenazesi, 3 Temmuz 1943'te açılışını yaptığı İstanbul Üniversitesi Tıp Fakültesi İç Hastalıkları Kliniği'nden alınarak Ankara'ya getirilir. Dil ve Tarih Coğrafya Fakültesi’nde katafalka konulur ve 2 Mart'ta büyük bir törenle Cebeci Asri Mezarlığı'nda toprağa verilir."
+		},
+		"3": {
+			"Header": "Ölümünden Sonra",
+			"Content": "Giresun'un Görele ilçesinde adına \"Hasan Âli Yücel Kültür Merkezi\" kurulmuştur. İstanbul Üniversitesi'nin eğitim fakültesi de \"Hasan Ali Yücel Eğitim Fakültesi\" adıyla kurulmuştur."
+		},
+		"4": {
+			"Header": "Bazı Eserleri",
+			"Content": "• 1929: Sûrî ve Tatbikî Mantık\n• 1932: Goethe: Bir Dehanın Romanı\n• 1936: Fransa'da Kültür İşleri\n• 1938: Türkiye'de Ortaöğretim\n• 1947: Davam\n• 1950: Hasan Âli Yücel'in Açtığı Davalar ve Neticeleri\n• 1952: Mantık Dersleri\n• 1956: İyi Vatandaş İyi İnsan\n• 1957: Edebiyat Tarihimizden\n• 1958: İngiltere Mektupları\n• 1960: Hürriyet Gene Hürriyet cilt 1\n• 1961: Allah Bir\n• 1964: Hürriyet Gene Hürriyet cilt 2\n• 1970: Atatürk(Salih Omurtak ile)\n• 1974: Kültür Üzerine Düşünceler\n• 1990: Geçtiğim Günlerden\n• 1998: Hürriyet Gene Hürriyet cilt 3\n• 1998: Pazartesi Konuşmaları\n• 1998: Dinle Benden"
+		},
+		"5": {
+			"Header": "Hakkında Yazılan Kitaplar",
+			"Content": "• 1998: Mustafa Çıkar, Hasan Âli Yücel ve Türk Kültür Reformu, Ankara, İş Bankası Kültür Yayınlar\n• 2000: Şinasi Sönmez, Eğitimde ve Siyasette Hasan Âli Yücel, Ankara, Kültür Bakanlığı Yayınlar\n• 2001: Celâl Şengör, Hasan-Âli Yücel ve Türk Aydınlanmas\n• 2007: Alev Coşkun, Hasan Âli Yücel-Aydınlanma Devrimcisi, Ankara, Cumhuriyet Kitaplar\n• 2009: Mehmet Başaran, Öğretmenim Hasan Âli Yücel, Ankara, İş Bankası Kültür Yayınlar\n• 2021: Tanıl Bora, Hasan Âli Yücel, İstanbul, İletişim Yayınları"
+		},
+		"6": {
+			"Header": "Felsefesi",
+			"Content": "Hasan Ali Yücel’in felsefesi; hürriyet, eğitim ve hümanizm kavramları üzerine kuruludur.\nO hürriyeti, insan ve toplum için bir ideal, kavuşulacak bir yer, bir hedef olarak kabul eder. Ona göre gerçek hürriyetten sadece insanın kendi başına düşünmeye başlamasıyla, kendi aklını kullanmaya başlamasıyla bahsedilebilir. Ona göre hürriyet bir düşünüş, bir farkına varma ve bir anlayış geliştirme özelliği taşır."
+		},
+		"7": {
+			"Header": "Eğitim Felsefesi",
+		"Content": "Yücel’e göre eğitim sistemi öncelikle insanın kendi başına düşünmesine olanak sağlamalıdır. Yücel, hürriyet olmayan yerde insanın karakterinin gelişmeyeceğini ifade ederken eğitim kapsamında bireyin hürriyetini öne çıkarır.\n\n“Hava küreden kendimizi nasıl soyutlayamaz isek cemiyetten de kendimizi ayrı tutamayız.” Bu bağlamda eğitimde bireyin toplumla bağlılığı, uyumu ve dengesi esas alınır.\n\nHasan Ali Yücel’in düşüncelerinde hürriyeti isabetli anlamak ve kullanmak meselesi eğitim ve hümanizmin temeli olan insana saygıdan geçer. Bu şartların sağlandığı ülkede her türden düşünceye mensup insan, bir arada uyum içinde yaşayabilir.\n\nHümanizm, insanlar arasında elitist eğilimleri ve ayrışmayı kaldırmalı; bunların aksine olarak halka, onun eğitimine ve hürriyetine temas eden bir anlayışı filizlendirmelidir.\nHasan Ali Yücel’in “Felsefe Elifbası”, “Mantık”, “Hürriyet, Gene Hürriyet”, “Türkiye’de Ortaöğretim”, “Goethe: Bir Dehanın Romanı” adlı eserlerinin yanında dil, kültür ve tarih üzerine çeşitli eserleri bulunmaktadır.\nMillî Eğitim Bakanlığı görevini yürüttüğü dönemde tercüme bürosu kurduran Yücel aynı zamanda felsefe ve edebiyat alanlarında çeviriler de yapmıştır."
+		}
+	}
+}

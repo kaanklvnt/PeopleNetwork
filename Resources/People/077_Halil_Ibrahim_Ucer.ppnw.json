@@ -1,0 +1,21 @@
+{
+	"Name": "Halil İbrahim Üçer",
+	"Desc": "İslam felsefesi, metafizik ve bilgi teorisi alanlarında önemli çalışmalar yapmış akademisyen",
+	"Period": "Republic",
+	"Lifetime": [ 1975, 0 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ 125, -175 ],
+		"Color": [ 255, 255, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Eğitimi ve Akademik Kariyeri:\n----> 2004 yılında Marmara Üniversitesi İlahiyat Fakültesi'nden mezun oldu.\n----> 2007 yılında \"Ebû Hayyân et-Tevhîdî ve Felsefî Kişiliği\" adlı teziyle yüksek lisansını tamamladı.\n----> 2010-2011 eğitim yılında McGill Üniversitesi Institute of Islamic Studies’te misafir araştırmacı olarak bulundu.\n----> 2014 yılında \"İbn Sînâ Felsefesinde Suret Anlayışı\" başlıklı teziyle doktorasını tamamladı.\n----> 2020 yılında doçent unvanını aldı.\n----> İstanbul Medeniyet Üniversitesi Felsefe Bölümü’nde öğretim üyesi olarak görev yapmaktadır.\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n----> Halil İbrahim Üçer, özellikle İslam felsefesi, metafizik ve bilgi teorisi üzerine çalışmalar yapmıştır.\n--------> İslam Felsefesi: Fârâbî, İbn Sînâ ve Seyyid Şerîf el-Cürcânî üzerine araştırmalar yaptı.\n--------> Metafizik: Varlık ve bilgi arasındaki ilişkiyi inceledi.\n--------> Bilgi Teorisi: Erken dönem İslam düşüncesinde bilgi ve yorumlama süreçlerini ele aldı.\n• Akademik ve Kültürel Katkıları:\n----> İslam Düşünce Atlası projesinde editör olarak görev aldı.\n----> Nazariyat ve Teklif dergilerinin editörleri arasında yer aldı.\n----> İslam düşüncesinin temel meseleleri üzerine akademik yayınlar yaptı.\n• Önemli Eserleri:\n----> İbn Sînâ Felsefesinde Suret, Cevher ve Varlık (2017)\n----> İslam Düşünce Atlası I-VI (ed. 2017, 2022)\n----> İnsan Nedir? İslam Düşüncesinde İnsan Tasavvurları (ed. 2019)\n----> Taşköprülüzade’de Bilgi, Bilim ve Varlık (ed. 2020)"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Doç.Dr.Halil İbrahim Üçer Marmara Üniversitesi İlahiyat Fakültesi’nden mezun oldu(2004).Aynı üniversitenin Sosyal Bilimler Enstitüsü’nde”Ebu Hayyam-Tevhidi ve Felsefi Kişiliği”adlı teziyle yüksek lisansını(2007),”İbni Sina Felsefesinde Suret Anlayışı”başlıklı çalışmasıyla doktorasını(2014)tamamladı.2020 yılında Doçent oldu."
+		}
+	}
+}

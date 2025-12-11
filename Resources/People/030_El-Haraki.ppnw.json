@@ -1,0 +1,29 @@
+{
+	"Name": "El-Haraki",
+	"Desc": "Astronom, matematikçi, filozof",
+	"Period": "Islamic",
+	"Lifetime": [ 1084, 1158 ],
+	"Importance": "Mid",
+	"GUI": {
+		"Position": [ 65, 155 ],
+		"Color": [ 231, 255, 124 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Ön Bilgi",
+			"Content": "• Tam İsim: Ebû Muhammed Abdulcebbâr b. Abdilcebbâr Muhammed b. Sâbit b. Ahmed el-Harakî\n• Doğum Yeri: Merv\n• Ölüm Yeri: Merv\n• Hocaları: Ebü'I-Kasım Abdurrahman b. Muhammed b. Sabit el-Harakî, Tacü’l-islam Muhammed b. Mansur es-Sem'anî, Ebu Ali İsmail b. Ahmed el-Beyhâkî, Ebu İshak İbrahim b. Ahmed el-Merverruzî\n• Öğrencileri: Abdülkerim b. Muhammed es-Sem'anî, Şerefuddîn el-Mes‘ûdî\n• Etkilendikleri: Hazînî, İbn Heysem\n• Etkiledikleri: Kutbüddîn Şîrâzî, Nasîrüddin Tûsî\n• Ekolleri: Astronomi, Felsefe, Matematik"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Eğitim hayatının ilk yıllarını aile çevresinde özellikle amcasının yanında geçiren Harakî öncelikle Şâfiî fıkhı ve hadis alanlarında uzmanlaşmıştır. Daha sonraları Büyük Selçuklu devletinin başkenti Merv’e yerleşen müellif tabiî, riyâzî ve felsefî ilimler ile ilgilenmiştir. Bu alanlarda hocalarının kimler olunduğuna dair herhangi bir bilgi bulunmamakla birlikte eserleri incelendiğinde daha çok Batlamyus'un, Ebû Ca'fer el-Hâzin'in, İbn Sînâ ve İbnü'I-Heysem'in eserlerinden faydalandığı anlaşılır. Merv'de yaşayan ve Sultan Sencer adına bir zic hazırlayan ünlü astronomi ve fizik âlimi Abdurrahman el-Hâzinî ile (ö. 550/1551?) çağdaş olması ve saraya yakınlığı göz önünde tutularak bu kitapları okurken ondan da etkilendiğini akla getirir. Harakî'nin meşhur çalışması et-Tebsıra fi ilmi’l-hey’e’yi Sultan Sencer'in ünlü veziri Nasîrüddîn Mahmud b. Muzaffer ei-Hârizmî'nin oğlu Emir Şemseddin Ali’ye ithaf etmesinden Sultan Sencer’in çevresindeki saygın bilginlerden biri olduğu kanısına varılabilir. Buna ilave olarak, diğer bir dikkate değer çalışması Müntehe'l-idrâk'in mukaddimesinde bu eseri öğrencileri için yazdığını belirtmesi, çeşitli mekanlarda gerçekleşen ders halkalarında veya örgün eğitim kurumları olan medreselerde başta astronomi olmak üzere riyâzî ilimlerin öğretimi ile meşgul olduğunu düşündürmektedir. Son olarak, astronomi ve coğrafya hakkındaki eserleri günümüze ulaştığından Harakî daha çok bir astronom olarak tanınmaktadır."
+		},
+		"2": {
+			"Header": "Öne Çıkan Eserleri",
+			"Content": "• Münte-he'l-İdrak fi Tekâsimi'l-Eflak: thk. Hanif Ghalandari, Mirâs-i Mektûb, Tahran 2020.\n• et-Tebsıra fi İlmi'l-Hey'e: Süleymaniye Ktp., Ayasofya, nr. 2578, 2579, 2580, 2581, 4857/3; Carullah Efendi, nr. 1483/2; Fatih, nr. 3172/3, 3385/1; Hasan Hüsnü Paşa, nr. 1279; vr. 62b- 128a.\n• Risâle fi 'Ameli Zâti'l-Halak: Süleymaniye Ktp., Fatih, nr 3442.\n• et-Telhis fi 'Adedi'l-Vefk: Süleymaniye Ktp., Ayasofya, nr. 4843.\n• Umde li Uli’l-Elbâb: Topkapı Sarayı Müzesi Kütüphanesi, Revan Köşkü, nr. 1719.\n• Risâletü'ş-Şâmile.\n• er-Risâletü'l-Mağribiyye.\n• Tarihu Merv."
+		},
+		"3": {
+			"Header": "Öğretisi",
+			"Content": "Kendi zamanına kadar gelmiş astronomi ve coğrafya bilgilerini günümüze ulaşan iki önemli eseri Müntehe'l-idrak fi tekâsimi'l-eflak ile et-Tebsıra fi ilmi'l-hey'e’de özetleyen Harakî, Hâzin ve İbnü'I-Heysem'in gezegenler ve yıldızların mevhum daireler üzerinde değil iç içe düzenli ve devamlı dönen küresel yüzeyler üzerinde hareket ettikleri görüşünü tekrar ifade etmiştir. Bu sayede, bir gezegenin hareketi sırasında önündeki havayı sıkıştırarak arkasında bir boşluk bıraktığı görüşü terkedilmiştir.\n\nAyrıca Harakî, bu çalış­malarında kozmografya ilmi ile coğrafya ilmini ayrı bölümlerde ele almıştır. Bu tavrı gökbilim, fiziki coğrafya ve matematiksel coğrafya arasında bir ayrım yapmaya çalıştığı intibaı uyandırır.\n\nAritmetik ve dirhem-dinar hesabı hakkındaki er-Risâletü'ş-şâmile ve er-Risâletü'l-Mağribiyye adlı iki eserinin günümüze ulaşamamış olması, müellifin matematikçi kimliğinin göz ardı edilmesine neden olmuş, bilhassa hesap alanındaki donanımının ve bunun düşünce sistemine yansımasının belirlenmesini engellemiştir.\n\nHarakî'nin Müntehe'l-idrak fi tekâsimi'l-eflak adlı eserinin eski Latince risalelerde anıldığının tespit edilmesi onun sadece İslam medeniyetinde değil, Batıdaki tesirlerini de göstermesi bakımından değerlidir.\n\nMüellifin astronomi, astroloji ve coğrafya yönü üzerinde en kapsamlı çalışmalar Hanif Ghalandari tarafından yapılmıştır. Müntehe'l-idrak fi tekâsimi'l-eflak ile et-Tebsıra fi ilmi'l-hey'e adlı astronomi eserinin tahkikli metni ve Farsça tercümesi, müellifin hayatı ve eserleriyle birlikte doktora tezi olarak çalışılmış ve ardından kitap formunda yayınlanmıştır."
+		}
+	}
+}

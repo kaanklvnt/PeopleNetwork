@@ -1,0 +1,29 @@
+{
+	"Name": "Hacı Paşa",
+	"Desc": "XIV. yüzyılda Anadolu’da bulunan en büyük Türk hekimi",
+	"Period": "Islamic",
+	"Lifetime": [ 0, 1421 ],
+	"Importance": "High",
+	"GUI": {
+		"Position": [ 85, 210 ],
+		"Color": [ 76, 255, 0 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Doğum Yeri: Birgi\n• Ölüm Yeri: Birgi\n• Hocaları: Muhammed b. Mübârekşah, Cemaleddin Aksarayî, Bâbertî\n• Öğrencileri: Sinan Paşa\n• Etkilendikleri: Kutbuddîn er-Râzî\n• Ekolleri: Felsefe, Kelam, Tıp"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Bursalı Kadızâde’nin matematik ve astronomideki kuruculuğunun benzerini tıpta gösteren, zamanın tanınmış hekimi Hacı Paşa’nın asıl adı Celâleddin Hızır’dır. İlk eğitimini Konya’da gördü. Yüksek tahsilini ise, Molla Fenârî ile birlikte, Mısır’da yaptı. Tıp bilgisini geliştirdikten sonra Kahire-Kalavun Hastanesi’nde çalıştı. Eğitimini tamamladıktan sonra Konya’ya döndü. Aydınoğlu İsa Bey’in daveti üzerine Selçuk (Ayasluğ) ve Birgi’de hekimlik hizmeti verdi."
+		},
+		"2": {
+			"Header": "Öne Çıkan Eserleri",
+			"Content": "• el-Ferîde fi’t-Tıbb: Turhan Valide Sultan, nr. 258/2.\n• Kitâbü’t-Te’âlîm fi’t-Tıbb: Turhan Valide Sultan, nr. 258/1; III. Ahmed, nr. 1947, 2093; Veliyüddin, nr. 2540/4.\n• Şifâü’l-Eskâm ve Devâü’l-Âlâm: III. Ahmed, nr. 2070; Bağdatlı Vehbi, nr. 1404; Damad İbrahim, nr. 933.\n• Kitâbü’t-Teshîl fi’t-Tıbb: haz. Zikri Turan, “Hacı Paşa: Teshîl (Dil Özellikleri, Metin, Söz Dizini)”, "
+		},
+		"3": {
+			"Header": "Öğretisi",
+			"Content": "Hacı Paşa XV. yüzyılın başlarında Anadolu’da bulunan en büyük Türk hekimidir. Tıp sahasında beşi Arapça, altısı Türkçe ve biri de Farsça olmak üzere on iki eser kaleme almıştır. Telif ettiği bu kitaplar yüzyıllar boyunca okunmuştur. Önemli eserlerinden biri Şifâü’l-Eskâm ve Devü’l-Âlâm’dır olup, Aydınoğlu İsa Bey adına 1381’de Ayasluğ’da telif edilmiştir. Diğer bir eseri Kitabü’t-Teâlim fi’t-Tıbb adını taşır. Eser yine kendisi tarafından Kitabü’l-Ferîde adı ile ihtisar edilmiştir. Hacı Paşa’nın bir diğer eseri Kitabü’s-Saâde ve’l-İkbâl, genel sağlığı konu alan tıp kitabıdır. Bu eser daha sonra meçhul biri tarafından Türkçe’ye tercüme edilmiştir. Osmanlı’da Türkçe tıp dilinin gelişmesinde Hacı Paşa’nın önemli yeri vardır. Kitabü’t-Teshil fi’t-Tıbb ve Müntehâb-ı Şifâ adlı eserlerini Türkçe kaleme almış, İbn Baytar’ın (ö. 648/1248) Müfredât’ını da Tercüme-i Müfredat-ı İbn Baytar adıyla Türkçe’ye tercüme etmiştir. Hacı Paşa, böylece, Selçuklu tabiplerinden Hekim Bereket’in (ö. VIII/XIV. yüzyılın ilk yarısı) Tuhfe-i Mubarızî ve Kitab-ı Hulâsa der İlm-i Tıb adlı iki eseri ile Anadolu’da başlatmış olduğu Türkçe tıp geleneğini devam ettirmiştir."
+		}
+	}
+}

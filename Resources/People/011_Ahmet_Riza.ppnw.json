@@ -1,0 +1,29 @@
+{
+	"Name": "Ahmet Rıza",
+	"Desc": "Osmanlı siyasetçi, eğitimci ve ideolog",
+	"Period": "Islamic",
+	"Lifetime": [ 1858, 1930 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ -55, -65 ],
+		"Color": [ 196, 173, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Ön Bilgi",
+			"Content": "• Tam adı: Ahmed Rıza Bey\n----> Osmanlı siyasetçisi, eğitimci ve ideolog olarak bilinir. İttihat ve Terakki Cemiyeti’nin önde gelen kurucularından biridir.\n• Doğum yeri ve yılı: İstanbul, Osmanlı İmparatorluğu – 1858\n----> Babası Şura-yı Devlet ve Meclis-i Âyan üyelerinden Ali Rıza Bey, annesi ise Avusturyalı asil bir ailenin kızı Naile Hanım’dır.\n• Ölüm yeri ve tarihi: İstanbul, Türkiye – 26 Şubat 1930\n----> Osmanlı siyasetinde önemli roller üstlenmiş, Meclis-i Mebûsan başkanlığı yapmıştır.\n• Felsefi ekolleri ve çalışma alanları:\n----> Pozitivizm: Auguste Comte’un pozitivizm felsefesini Türkiye’ye taşıyan önemli isimlerden biridir.\n----> Toplumsal Reform: Osmanlı’nın kurtuluşunu ve kalkınmasını, kişi veya siyasal rejim değişiklikleri yerine toplumsal yapı değişikliğinde gören bir düşünce yapısına sahiptir.\n----> Siyaset ve Eğitim: Osmanlı siyasetinde reformlar yapmaya çalışmış, eğitim alanında da önemli katkılarda bulunmuştur."
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Ahmed Rıza Bey (İstanbul - 26 Şubat 1930, İstanbul), Osmanlı siyasetçi, eğitimci ve ideolog. İttihat ve Terakkî Cemiyeti'nin önde gelen kurucularından ve Osmanlı İmparatorluğu'nda önemli siyasal gelişmeleri sağlayan İkinci Meşrutiyet döneminin önde gelen Jön Türk (Genç Türkler) grubunun başındaki isimlerindendir. Auguste Comte'un pozitivizm felsefesini günümüz Türkiye'sine taşıyan kişidir. Osmanlı'nın kurtuluşunu ve kalkınmasını, kişi veya siyasal rejim değişiklikleri yerine toplumsal yapı değişikliğinde gören ve bu yönde çalışmalar üreten ilk kişi olmuştur.\n\nParis'te yaşadığı yirmi yıla yakın sürede İttihad-ı Osmani, daha sonrasında İttihad ve Terakki adını alacak olan cemiyetin, Paris şubesinin başkanlığını yaptı, Fransa ve Belçika'da Doktor Nâzım Bey ile birlikte, cemiyetin ilk resmi yayın organı olan Meşveret gazetesini, sürgüne yollandığı Mısır'da ise Şura-yı Ümmet gazetesinin çıkardı. Osmanlı Devleti'nde 1908 yılında II. Meşrutiyet ilan edilmesi üzerine İstanbul'a dönen ve \"hürriyetçilerin babası\" olarak törenlerle karşılanan Ahmed Rıza, Meclis-i Mebûsan başkanlığı yaptı; Ayan Meclisi üyesi oldu. 1910 yılında Hasan Fehmi ve Ahmet Samim'in öldürülmesinin ardından İttihatçılarla arası açılan Ahmed Rıza, 1910'da cemiyetin merkez komitesinden ayrıldı ve 1911'de de Meclis Başkanlığından vazgeçti. Daha sonrasında Sultan Vahdettin tarafından tekrar Ayan Meclisi başkanlığına atandı. Ve bu yıllarda, İttihatçılara sert muhalefet düzenledi. Ancak, Damat Ferid ile arası açılınca Fransa'ya döndü ve Anadolu'daki Millî Mücadele lehine çalışmalarda bulundu. Lozan Antlaşması'ndan sonra Türkiye'ye döndü."
+		},
+		"2": {
+			"Header": "Eserleri",
+			"Content": "• Meşveret yazıları, 1903-1908\n• Layihalar, 1889\n• Vazife ve Mesuliyet serisi (Üç kitap içerir Padişah ve Şehzadeler, Asker, Kadın)\n• Tolarance Muslumane (İslamiyet'te Serbesti-i Ayin), 1897\n• Echos de Turquie (Türkiye Haberleri), 1920\n• La Crise de I'Orient (Burhan-ı Şark),1907\n• Revue Occidentale (Pozitivistelerin Dergisi) Makaleleri, 1896-1908\n• Pozitivist Rewiev dergisinde yayımlanan makaleler, 1900-1908\n• La Faillite Morale de la Politique Occidentale en Orient (Batının Doğu Politikasının Ahlaken İflası), 1922"
+		},
+		"3": {
+			"Header": "Düşüncesi ve Görüşleri",
+			"Content": "Ahmed Rıza’ın düşüncesine şekil veren en önemli unsur pozitivizme olan bağlılığıdır. Eğitimden siyasete, dine yaklaşımından reforma kadar pek çok düşüncesi pozitivist düşünce doğrultusunda şekillenmiştir. Bu çerçevede ilerleme fikrinin içinde bulunan koşullar etrafında şekillenmesi gerektiğini düşünen Ahmed Rıza’ya göre o dönemde Osmanlı’nın ilerleme için sanayi ve ziraatı merkeze alması ve bunu da halkı eğiterek gerçekleştirmesi gerekmektedir. Onun için eğitim kişisel gelişimden ziyade toplumsal fayda için önem taşır. Compte’cu ilerleme ve düzen fikrinin etkisiyle eğitim başta olmak üzere toplumsal kurumları, temelde intizamın sağlanmasına katkısı cihetinden ele alır. Dine yalnızca toplumsal bütünleşmenin önemli bir unsuru olarak önem verirken tekkeler ve şeyhleri halkın cehaletinden yararlanarak bu düzenin bozulmasına yol açan unsurlar olarak değerlendirir. Laffitte’nin etkisiyle İslâm’ın terakkiye mâni olduğu yönündeki iddialara karşı çıkarken İslâm dinini ilerlemeye ve toplumsal bütünlüğü sağlamaya en müsait din olarak görür. Ahmed Rıza’nın pozitivizme olan bağlılığında en önemli unsurlardan biri Osmanlıları barbarlıktan uzak gören bu tutumdur. Yeni bir din olan pozitivizm düzenin, barışın ve ilerlemenin tek yoludur.\n\nAhmed Rıza İttihat ve Terakki Cemiyeti’nin öncüleri arasında toplumcu, merkeziyetçi ve anti müdahaleci cephenin liderliğini üstlendi. Bu konularda cemiyetin diğer önemli isimleri Mizancı Murad ve Prens Sabahattin ile ayrı düştü.  Özellikle 1902’deki I. Jön Türk Kongresi’nde Prens Sabahattin’le yaşadığı çatışma cemiyeti merkeziyetçiler ve adem-i merkeziyetçiler olmak üzere ikiye böldü. Siyasal mücadelenin şiddetten uzak, barışçıl yöntemlerle ve düzen içerisinde yürümesi gerektiği düşüncesini savunan Ahmed Rıza sürekliliği merkeze alarak devrime karşı bir duruş sergiledi. Bu çerçevede padişahın azlinden sonra yerine yine hanedandan bir yöneticinin gelmesi ve Kânûn-i Esâsî’nin yürürlüğe konması düşüncesini savundu. Değişim konusunda elitist bir perspektife sahipti ve ilerleme konusundaki sorumluluğun aydınlara ait olduğunu düşünürken otoriter rejimi destekledi. Toplumsal düzenin sağlanması ve sürdürülmesinde aileye ve kadınların eğitilmesine önem verirken, kadınların örtünmesine ve çokeşliliğe karşı bir tutum sergiledi."
+		}
+	}
+}

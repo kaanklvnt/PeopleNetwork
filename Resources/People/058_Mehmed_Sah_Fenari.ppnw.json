@@ -1,0 +1,29 @@
+{
+    "Name": "Mehmed Şah Fenari",
+    "Desc": "Osmanlı ulemâsından, Molla Fenârî’nin oğlu",
+    "Period": "Islamic",
+    "Lifetime": [ 1401, 1435 ],
+    "Importance": "Low",
+    "GUI": {
+        "Position": [ -10, -185 ],
+        "Color": [ 211, 245, 228 ]
+    },
+    "Content": {
+        "0": {
+            "Header": "Temel Bilgiler",
+            "Content": "• Doğum Yeri: Bursa\n• Ölüm Yeri: Bursa\n• Hocaları: Molla Yegân, Abdülvâcid Kütâhî, Molla Fenârî\n• Öğrencileri: Fahrüddin el-'Acemî, Muhyiddin Mehmed\n• İletişimde Bulunduğu İsimler: Abdurrahman Bistâmî\n• Bulunduğu Medreseler: Bursa Sultaniye Medresesi\n• Ekolleri: Felsefe, Kelam, Mantık, Matematik, Tasavvuf, Yeni-Eşarîlik"
+        },
+        "1": {
+            "Header": "Hayatı",
+            "Content": "Mehmed Şah Fenârî’nin hayatı hakkındaki bilgiler oldukça azdır. Babası Molla Fenârî’nin, 791/1388-89 tarihinde Seyyid Şerîf Cürcânî ile Kahire’ye gidip Ekmelüddin Bâbertî’den icazet alıp Bursa’ya dönmesinden sonra doğmuş olmalıdır. 822/1419 tarihinde tamamlanmış olan Sultâniye Medresesi’nde 18 yaşında ilk müderris olarak ders vermeye başladığı göz önüne alındığında doğum tarihi olarak 803/1401 senesi verilebilir.\n\nİlim tahsilinde en önde gelen hocası, babası Molla Fenârî’dir. Ayrıca Bursa Manastır Medresesi’nde müderrislik yapan Molla Yegân’dan da ders almıştır. Kütahya Vâcidiye Medresesi müderrisi Abdülvâcid Kütâhî’den ise Esîrüddin Ebherî’nin Hidâyetü’l-hikme’sini okumuş ve ondan ayrıca usturlab ilmini tahsil etmiştir. Abdülvâcid Kütâhî’nin usturlap ve kullanımı konusunda önceden yazmış olduğu 552 beyitlik Me'âlimü’l-evkât (Manzûme fî ma'rifeti’l-usturlâb) isimli eserini onun için şerh ettiği bilinmektedir.\n\nMehmed Şah Fenârî, genç yaşta Bursa Sultaniye Medresesi müderrisliği görevine getirilmiş olmasının, babasının ilmî şöhretinden kaynaklandığına dair dedikodular üzerine ilk dersini halka açık olarak gerçekleştirmiştir. Bu derste hazır bulunan âlimlerin muhtelif sorularına vermiş olduğu isabetli cevaplarla, sahip olduğu ilmî seviyeyi ispatlayarak müderrislik görevini hak ettiğini ortaya koymuştur.\n\nMehmed Şah Fenârî, 822/1419 senesinde babasıyla birlikte hac farîzasını îfâ etmek için Hicaz’a gitti. Dönüşte beraberce Kahire’ye uğradılar ve orada bir müddet kalarak dönemin önde gelen âlimleriyle ilmî müzâkerelerde bulundular. 823/1420 senesinde Kahire’den ayrılıp Kudüs’e uğradıktan sonra 827/1424 senesinde Bursa’ya döndüler.\n\nMehmed Şah Fenârî, Rebîülevvel 839/ Eylül-Ekim 1435 tarihinde Bursa’da vefat etti. Bazı kaynaklarda vefatına dair bu tarihten daha önceki tarihleri içeren bilgiler, oğlu Hasan Çelebi’nin onun vefatını takiben 840/1436 senesinde doğduğu göz önüne alındığında doğru olarak kabul edilemez. Kabri Bursa’da, babasının yaptırmış olduğu cami ve medresenin haziresinde ve onun kabrinin yanındadır. Şu an hazirede bulunan tek silindirik tarzdaki mezartaşı ona aittir."
+        },
+        "2": {
+            "Header": "Öne Çıkan Eserleri",
+            "Content": "• Enmûzecü’l-'Ulûm.\n• Risâle fî 'İlmi’l-Beyân.\n• Hâşiye 'alâ Fusûli’l-Bedâyi' li-Usûli’ş-Şerâyi'.\n• Telhīsu’l-Fusûl ve Tersîsü’l-Usûl.\n• Hâşiye 'alâ Tefsîri’l-Fâtiha li’l-Beyzâvî.\n• Ta‘lîkât 'alâ Kısmi’l-İlâhiyyât min-Şerhi’l-Mevâkıf.\n• Şerhu Manzûmeti’l-Elgâz li’l-Fârih."
+        },
+        "3": {
+            "Header": "Öğretisi",
+            "Content": "Mehmed Şah Fenârî, dilbilgisi, belâgat, fıkıh usûlü, ferâiz, hikmet, kelâm, tefsir ve ilimler tasnîfine dair eserler kaleme almıştır. Onun ilimler tasnifine dair Enmûzecü’l-'ulûm isimli eseri, ilimler tasnifi tarihinde önemli bir yere sahiptir.\n\nKaynaklar Mehmed Şah’ı zeki, faziletli ve zamanın ileri gelen âlimlerinden birisi olarak tanıtırlar. Babası Molla Fenârî’nin meşgul olduğu bütün ilimlerle meşgul olmuş ve babasının pek çok eserine şerh yazmıştır. Aklî ve naklî ilimlere vukûfiyeti devrinin ulemâsı tarafından tasdik edilmiş, hatta bazı kaynakların beyanına göre babasından daha zeki olmasıyla temâyüz etmiştir."
+        }
+    }
+}

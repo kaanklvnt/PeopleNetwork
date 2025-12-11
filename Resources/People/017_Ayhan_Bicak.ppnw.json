@@ -1,0 +1,33 @@
+{
+	"Name": "Ayhan Bıçak",
+	"Desc": "Türk akademisyen ve filozof",
+	"Period": "Republic",
+	"Lifetime": [ 1956, 0 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ -45, 140 ],
+		"Color": [ 241, 219, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Ön Bilgi",
+			"Content": "• Doğum yeri ve yılı: Erzincan, Türkiye – 1956\n• Felsefi ekolleri ve çalışma alanları:\n----> Tarih Felsefesi: Tarih anlayışı ve tarih metafiziği üzerine çalışmalar yapmıştır.\n----> Siyaset Felsefesi: Devlet ve toplum yapıları üzerine araştırmalar yürütmüştür\n----> Felsefe Tarihi: Antik Yunan düşüncesi ve Türk düşüncesi üzerine akademik çalışmalar yapmıştır.\n----> Evren Tasavvuru: Evrenin felsefi anlamı üzerine eserler vermiştir.\n----> İslam Öncesi Türk Devlet Düşüncesi: Türk devlet yapısının tarihsel gelişimi üzerine incelemelerde bulunmuştur."
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Felsefe Profesörü, Akademisyen, Yazar. 1956, Refahiye / Erzincan doğumlu. Lise öğrenimini İstanbul’da tamamladı. İstanbul Üniversitesi Edebiyat Fakültesi Felsefe Bölümü (1982) mezunu. Aynı bölümde 1985 yılında “Aristoteles’in İnsan Toplum ve Tarih Anlayışı” konulu teziyle yüksek lisans çalışmasını tamamladı. 1991 yılında adı geçen bölüme araştırma görevlisi olarak girdi. “Platon’un Tarih Kavrayışı” adlı tezle Prof. Dr. Teoman Duralı’nın gözetiminde 1992 yılında doktorasını bitirdi. 1995 yılında yardımcı doçent, 1997’de doçent, 2007’de profesör oldu. Aynı bölümde öğretim üyesi olarak çalışmalarını sürdürdü.\n\nTarih ve siyaset felsefesi konularında makaleleri 1987’den itibaren İnsan ve Kainat Dergisi, Felsefe Dünyası Dergisi, Klasik Filoloji Dergisi, Toplumsal Tarih Dergisi, İÜ Edebiyat Fakültesi Felsefe Bölümü Dergisi, Kutadgubilig, Türk Yurdu Dergisi’nde yayımlandı. 2004 yılında Tarih Düşüncesi genel başlığı altında yayınlanan Tarih Düşüncesinin Oluşumu (2004), Felsefe ve Tarih (2004) ve Tarih Felsefesinin Oluşumu (2004) adlı eserleri TYB tarafından yılın fikri eseri seçildi. Bilimsel toplantılarda çok sayıda bildiri sundu, konuşma yaptı.\n\nTarih felsefesi, siyaset felsefesi, felsefe tarihi konularında çalışmaktadır. Tarih anlayışı, evren tasavvuru, antik Yunan düşüncesi ve Türk düşüncesi hakkındaki yayınları ile tanınmaktadır.\n\nTürk düşüncesinde tarih ve yaşam felsefesi hakkında çeşitli konferans ve seminerler düzenlemiştir. İslam öncesi Türk devlet düşüncesi hakkında çalışmaları da mevcuttur. Türk Düşüncesi adlı kitabı Türk tefekkür tarihini felsefe açısından ele alan sayılı eserlerdendir.\n\nMart 2016'dan itibaren İstanbul Üniversitesi Felsefe Bölümü başkanlığı görevini üstlenmiştir."
+		},
+		"2": {
+			"Header": "Eserleri",
+			"Content": "Tarih Bilimi (1999), Tarih Düşüncesi I. Tarih Düşüncesinin Oluşumu (2004), Tarih Düşüncesi 2 - Felsefe ve Tarih (2004), Tarih Düşüncesi 3 Tarih Felsefesinin Oluşumu (2004), The Idea of the State in the Pre-Islamic Turkish Thought (2004), Tarih Düşüncesi 4 Tarih Metafizikleri (2005), Türk Düşüncesi 1 Kökenler (2009), Türk Düşüncesi 2 Kaygılar (2010), Evren Tasavvuru - Kendini Bilmek ya da Evreni Kurmak (2012), Tarih Metafiziği Ya da Kendilik Bilinci (2014),Tarih Felsefesi (2015), Felsefenin Kuruluşu (2015), Felsefenin Yapısı ve Sorunları (2018)."
+		},
+		"3": {
+			"Header": "Din Felsefesi - Felsefe",
+			"Content": "Din Felsefesi- Felsefe başlıklı bu metinde tartışılan üç temel konu sırasıyla şunlardır: 1. Felsefeden ne anlaşıldığı ele alınmakta ve düşünce tarzı olarak felsefenin sahip olduğu nitelikler değerlendirilmektedir. Felsefenin felsefe dışı alanlarla ilişkileri üzerinde durulmaktadır. 2. Din felsefesinin ne anlama geldiği ve Tanrı ile dinin felsefede hangi bağlamlarda araştırma konuları yapıldıkları konu edinilmektedir. Son iki yüz yıldır devam eden din felsefesi konularının neler oldukları dile getirilmektedir. Ayrıca Türkiye gerçeğinden hareketle 21.yüzyılda din felsefesi konularının neler olabileceğine ilişkin bir liste sunulmaktadır. 3. Din felsefesi konusu olarak dinin yapısını belirleyen unsurların neler olduğu tartışılmaktadır. Bu bağlamda dinin dayandığı ilkeler kısaca yorumlanmaktadır."
+		},
+		"4": {
+			"Header": "Tarih Metafiziklerinin Yapısı",
+			"Content": "Tarih metafizikleri, insanlık tarihini, akıl, köken, yasa, gaye, ilerleme, anlam gibi kavramlardan hareketle bütünlüklü bir şekilde açıklamayı amaçlamaktadırlar Bu kavramlara yüklenilen anlamlar ve birbirleriyle ilişkisi tarih metafiziklerinin özelliklerini ortaya koyar."
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"Name": "Ekmeleddin En-Nahcuvani",
+	"Desc": "Mevlânâ'nın hekimi ve arkadaşı",
+	"Period": "Islamic",
+	"Lifetime": [ 0, 1302 ],
+	"Importance": "Mid",
+	"GUI": {
+		"Position": [ -25, -145 ],
+		"Color": [ 145, 255, 203 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Ön Bilgi",
+			"Content": "• Doğum Yeri: Nahçıvan\n• Ölüm Yeri: Bilinmiyor\n• Öğrencileri: Ebu Bekir İbnü'z-Zekî el-Mütatabbib el-Konevî\n• Etkilendikleri: Eflatun, Ebû Hafs Şehâbeddin Sühreverdî\n• Ekolleri: Felsefe, Tıp"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Nisbesinden anlaşıldığı kadarıyla Nahcıvan’da doğmuş olması kuvvetle muhtemeldir. Bununla birlikte tam olarak nerede ve ne zaman doğduğu bilinmediği gibi öğrenimi ve hocaları hakkında da kesin bilgi bulunmamaktadır. İbn Sînâ’nın el-İşârât ve’t-tenbihât adlı eserinin şârihi olan Ekmeleddîn en-Nahcuvânî’nin tıp öğrenimini tamamladıktan sonra Konya’ya geldiği belirtilmektedir. Ancak 700/1300’lü yıllarda Konya’da yaşadığı bilinen Nahcûvânî’nin ne zaman Konya’ya geldiği bilinmemektedir.  Mevlânâ Celâleddîn Rûmî’nin yakın arkadaşı ve doktorudur. Eflâkî’nin Menâkıbü’l-ârifîn’inde ise Mevlânâ Celâleddîn Rûmî’nin müridi olarak zikredilmektedir. Mevlânâ’nın kendisine yazdığı mektuplardan, onun devlet adamları ve âlimler arasında saygın bir yere sahip olduğu anlaşılmaktadır. Bu mektuplarda Mevlânâ onu “melikü’l-hükemâ” ve “mefharü’l-etıbbâ” gibi sıfatlarla nitelemektedir. Kaynaklarda Sultan Veled’in Nahcuvânî’yi öven kırk beyitlik bir kasideden söz edilmektedir. Konya Selçuklu sarayında ve I. Alâeddîn Keykûbad Dârüşşifâsı’nda hekimbaşılık ve müderrislik yapmıştır. Nahcûvânî’nin ölüm tarihi kesin olmamakla birlikte 701/1302 tarihinden sonra öldüğü tahmin edilmektedir."
+		},
+		"2": {
+			"Header": "Öne Çıkan Eserleri",
+			"Content": "• el-İşârât ve’t Tenbîhât Şerhi: Köprülü Ktp., nr. 875; Nûruosmâniye Ktp., nr. 2689.\n• el-Ecvibe: Köprülü Ktp., nr. 3545, 3721."
+		},
+		"3": {
+			"Header": "Öğretisi",
+			"Content": "İbn Sînâ’nın el-İşârât ve’t-tenbîhât adlı eserini şerh eden Nahcuvânî’nin öğretisi de İbn Sînâ ve onun selefi Fârâbî gibi varlık soruşturması üzerine kuruludur. Nahcuvânî önce varlığın tanılanıp tanımlanamayacağı sorununu incelemekte ve bu konuda İbn Sînâ ve Fârâbî gibi varlığın açık seçik olduğu, tanımlanabilen herhangi bir şeyin o şeyin cins ve faslından oluşacağı, “varlık” cins ve faslı olmayan en tümel kavram olduğu için tanımlanamayacağını düşünmektedir. Nahcuvânî İslâm felsefesinin en önemli ayırımlarından birisi olan varlık-mahiyet ayırımını sürdürmektedir. Ancak Vâcibü’l-Vücûd’da varlık-mahiyet ayırımı sözkonusu değildir, ancak onun dışındaki bütün varlıklarda bu ayırım vardır. Nahcuvânî açık bir şekilde varlığın mahiyete arız olduğunu ifade etmezse de tahlillerinden bu düşünceyi çıkarmak mümkündür. Ancak bu düşünce varlık-mahiyet arasında illiyet bakımından bir öncelik olduğu, başka bir ifadeyle mahiyetin varlığı öncelediği anlamına gelmez. Kendisi için varlık-mahiyet ayırımının söz konusu olmadığı tek varlık olan Tanrı dışındaki bütün diğer varlıklar mümkün varlıklardır. Kendinde zorunlu ile kendinde mümkün varlıklar arasındaki ilişki, yani mümkün varlığın varoluşunun nasıl gerçekleştiği sorunu ise seleflerine paralel bir şekilde “başkasıyla zorunlu” kavramıyla açıklanmaktadır. Buna göre bütün mümkün varlıklar bilfiil varoluşunu zorunlu varlık olan Tanrı’dan almaktadır. Bu sebeple o aynı zamanda İlk İlke, İlk Sebep ve Fâil İllet’tir. Feyz ya da sudûr teorisi de bu bağlamda tartışılmaktadır. Mümkün varlıkların varoluşları arasında hiçbiri imkan sıfatını dönüştürmeyen sun‘, ibda‘, ihdâs ve tekvîn gibi kavramlar arasındaki farklardır.  Nahcuvânî İbn Sînâ’yı takip ederek alemin varlığa gelişinin herhangi bir tercih ve irade ile olmadığını, bu durumların Tanrı için eksiklik olduğunu, dolayısyla alemin Tanrı’dan südurunun zorunlu olduğunu düşünmektedir."
+		}
+	}
+}

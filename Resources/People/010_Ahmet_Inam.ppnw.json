@@ -1,0 +1,37 @@
+{
+	"Name": "Ahmet İnam",
+	"Desc": "Türk filozof, akademisyen, eğitimci ve yazar",
+	"Period": "Republic",
+	"Lifetime": [ 1947, 0 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ 45, 115 ],
+		"Color": [ 150, 204, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Ön Bilgi",
+			"Content": "• Doğum yeri ve yılı: Sandıklı, Afyonkarahisar – 1947\n• Felsefi ekolleri ve çalışma alanları:\n----> Mantık: Edmund Husserl üzerine yaptığı doktora çalışmasıyla mantık alanında önemli katkılar sağlamıştır.\n----> Bilim Felsefesi: Bilimin doğası ve yöntemleri üzerine çalışmalar yapmıştır.\n----> Dil Felsefesi: Dilin anlamı ve yapısı üzerine araştırmalar yürütmüştür.\n----> Tarih Felsefesi: Tarihin felsefi temelleri üzerine düşünceler geliştirmiştir.\n----> Ahlak Felsefesi: Etik ve ahlaki değerler üzerine çalışmalar yapmıştır.\n----> Estetik: Sanat ve güzellik kavramları üzerine felsefi incelemelerde bulunmuştur.\n----> İletişim Felsefesi: İnsanlar arasındaki iletişimin felsefi boyutlarını ele almıştır.\n----> Gönül Felsefesi: 1994'ten itibaren \"Gönül Felsefesi\" adını verdiği bir düşünce akımı geliştirmiştir.\n\nMantık, bilim felsefesi, kümeler kuramı, endüktif ve model mantık, dil felsefesi, tarih felsefesi, ahlak, estetik, iletişim felsefesi alanında çalışmaları vardır. 1994'ten bu yana Gönül Felsefesi adını verdiği bir arayışın içindedir. 2014'te emekli olduktan sonra ODTÜ ve TEDÜ'de ders vermeyi sürdürmektedir."
+		},
+		"1": {
+			"Header": "Yaşamı",
+			"Content": "1947'de Sandıklı'da dünyaya geldi. 1971 yılında ODTÜ Elektrik Mühendisliği bölümünde yüksek öğrenimini tamamladıktan sonra İstanbul Üniversitesi'nde felsefe alanında doktora yaptı. Doktora tezini verinceye dek, aynı fakültede Latince ve Eski Yunanca derslerini izledi.[1] Yan dalı Eski Yunan Dili ve Edebiyatı olmak üzere 1980 yılında Edmund Husserl'de Mantığın Yeri konulu tezini yazarak doktorasını tamamladı. Aynı yıl ODTÜ Beşeri Bilimler bölümüne öğretim görevlisi oldu; 1981'de yardımcı doçent, 1983'te doçent, 1989'da profesör unvanını aldı.\n\n1994- 2000 yılları arasında ODTÜ Felsefe Bölümü'nün bölüm başkanlığı yürüttü; 2003 yılında tekrar bölüm başkanlığını üstlendi. 2014'te emekli oluncaya dek bölüm başkanlığını sürdürdü.[1] Akademik yaşamı boyunca mantık, bilim felsefesi, kümeler kuramı, endüktif ve model mantık, dil felsefesi, tarih felsefesi, ahlak, estetik, iletişim felsefesi alanlarında dersler vermiş, tez çalışmaları yaptırmıştır. ODTÜ'nün yanı sıra Anadolu Üniversitesi Açık Öğretim Fakültesi'nde, Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi Felsefe bölümünde, Ankara Üniversitesi Sosyal Bilimler Enstitüsü'nde ve Gazi Üniversitesi'nde de dersler verdi[1] 1994'ten bu yana Gönül Felsefesi adını verdiği bir arayışın içindedir.[2] Çeviri ve telif 30'dan fazla kitabı, 1000'e yakın yayımlanmış makalesi vardır. Evli ve bir çocuk babasıdır. Edebiyat alanında 1965'ten beri şiirler, denemeler, eleştiriler yazarak çalışmalarını sürdürmektedir. Ayrıca yayımlanmış bir romanı bulunmaktadır."
+		},
+		"2": {
+			"Header": "Ödülleri",
+			"Content": "• Prof. Dr. Mustafa Parlar Vakfı 1995-1996 Yılı En İyi Eğitimci Ödülü\n• ODTÜ'de verilen 2000 yılı Üstün Akademik Başarı Ödülü (1. Grup)\n• 1999-2001 yılı Üstün Akademik Başarı Ödülü\n• Türkiye Yazarlar Birliği 2003 yılı Yılın Fikir adamı ve Sanatçıları, Edebi Tenkit ödülü\n• 2008 Ankara Kocatepe Rotary Kulübü Meslek Ödülü\n• 2009 Rotary International Meslek Ödülü\n• 2009 Prof. Dr. Mümtaz Turhan Sosyal Bilimler Lisesi Kristal Lâle Yılın Felsefecisi Ödülü"
+		},
+		"3": {
+			"Header": "Eserleri",
+			"Content": "• Ahlakın Soykütüğü Üstüne.\n• Bilimin Binbir Yüzü.\n• Felsefeden Doğan Yaşam. \n• Tez Zamanı & Husserl ile Wittgenstein Arasında. \n• Köşedeki Can Penceresinden.\n• Şen Bilim (Ana Metin 1 ) Bütün Yapıtları.\n• İyinin ve Kötünün Ötesinde.\n• Yaşamla Yoğrulmuş Bilgi. "
+		},
+		"4": {
+			"Header": "Kapanış Sözü",
+			"Content": "Ahmet İNAM: Felsefe elbette 'ideolojisiz bir şey' değildir; ama o 'ideolojilere bakabilme ideolojisi'dir. Onun için insan değişik ideolojilerden felsefeyle yaşabilir, kendini ifade edebilir. Önemli olan da odur: yoksa felsefe, bütün bu 'dünya görüşlerinden bağımsız ve üstün bir mevkide durmak' anlamına gelmez."
+		},
+		"5": {
+			"Header": "Kaynakça",
+			"Content": "Kaynakça: https://tr.wikipedia.org/\n\n• a b c Prof. Dr. Ahmet İnam Özgeçmiş, Odtü Felsefe Bölümü web sitesi, Erişim tarihi:14.07.2015. 2 Temmuz 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 14 Temmuz 2015.\n• Ersin Yılancı, Batı Gönül Cahili, Millet Haftalık Haber Dergisi, Sayı 15,Tarih: 27.01.2003. 1 Ağustos 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 14 Temmuz 2015.\n\nKaynakça: https://users.metu.edu.tr\n• 27 Ocak 2003 Millet.Haftalık Haber Dergisi,Sayı 15"
+		}
+	}
+}

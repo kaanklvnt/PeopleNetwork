@@ -1,0 +1,29 @@
+{
+	"Name": "Hızır Bey",
+	"Desc": "İlk İstanbul kadısı olan Osmanlı alimi",
+	"Period": "Islamic",
+	"Lifetime": [ 1407, 1459 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ -195, 10 ],
+		"Color": [ 93, 0, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Tam İsim: Hızır Bey B. Celaleddin\n• Doğum Yeri: Eskişehir\n• Ölüm Yeri: İstanbul\n• Hocaları: Molla Yegân, Celaleddin Efendi\n• Öğrencileri: Alaeddin Arabi, Molla Hayâlî, Muslihuddin Kestelî, Sinan Paşa, Hatibzâde Muhyiddin Efendi\n• Etkilendikleri: Fahreddin er-Râzî\n• Etkiledikleri: Molla Hayâlî, Hocazâde, Muarrifzade Sinaneddin Yusuf, Muslihuddin Kestelî, Kemâlpaşazâde\n• Bulunduğu Medreseler: Bursa Çelebi Mehmed (Sultâniye) Medresesi, Edirne Üç Şerefeli Cami Medresesi\n• Ekolleri: Felsefe, Fıkıh, Kelam, Mâtürîdîlik\n• Etkilediği Ekoller: Mâtürîdîlik"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Hızır Bey 810/1407’de Eskişehir’e bağlı Sivrihisar’da doğdu. Babası Celaleddin Efendi’den ilköğrenimini tahsil ettikten sonra Molla Yegân olarak bilinen Ahmed b. Armağan’dan ders aldı. Arap beldelerine gitmeden Arapça’ya ve dinî ilimlere vakıf oldu. Bu durum Osmanlı medreselerinin kendi kendine yeter bir duruma geldiğini göstermektedir. Bir müddet Sivrihisar’da hocalık ve kadılık yaptı. Ulûm-ı garîbeye (cifr, kum falı, saatname, keşfü’l-esrâr, falnâme vb. ilimler) vukûfiyeti sayesinde bir münazarada galip gelince Sultan Fatih’in gözüne girdi. Önce Bursa’daki Çelebi Mehmed Medresesi’nde, sonrasında Edirne Üç Şerefeli Camii Medresesi’nde müderrislik yaptı. Bir süre Yanbolu kadılığı görevinde bulundu. İstanbul’un fethinden sonra kadılığına Hızır Bey getirildi. Böylece Hızır Bey İstanbul’un ilk kadısı oldu. Zamanında Hızır Bey’e ait bir arazi olan Kadıköy ilçesinin adının buradan geldiği söylenmektedir. 863/1459’da İstanbul’da vefat eden Hızır Bey, Vefa ile Zeyrek arasında bulunan Voynuk Şücâeddin Mescidi avlusuna defnedilmiştir. Kabri günümüzde Unkapanı İMÇ’nin (İstanbul Manifaturacılar Çarşısı) avlusunda bulunmaktadır. Osmanlı alimlerinden Yâkub Paşa, Müftü Ahmed Paşa ve Tazarru’nâme sahibi Sinan Paşa, Hızır Bey’in evlatlarıdır."
+		},
+		"2": {
+			"Header": "Öne Çıkan Eserleri",
+			"Content": "• el-Kasîdetü’n-Nûniyye: (Manzûme).\n• Tefsîr-i Yâsîn-i Şerîf: Hızır Bey Çelebi ve Yâsîn-i Şerif Tefsiri, nşr. Ayşe Hümeyra Aslantürk, Fakülte Kitabevi, Isparta 2007."
+		},
+		"3": {
+			"Header": "Öğretisi",
+			"Content": "Hızır Bey, ilmî faaliyetlerini Fahreddin er-Râzî kelam anlayışının hakim olduğu bir dönemde yürütmüştür. Davud el-Kayserî ve Molla Fenârî ile müesses hale gelen, kelâmî ve irfânî bir anlayışı barındıran Osmanlı medreselerinde yetişmiş ve bu anlayış üzere talebelerini yetiştirmiştir. Buna rağmen Hızır Bey en meşhur eserini Mâtürîdî kelam anlayışı üzere kaleme almıştır. Hızır Bey’in fikirleri Kaside-i nûniyye olarak meşhur olan Cevâhiru’l-akâid isimli bu Arapça manzumeden öğrenilmektedir. İlim bahsi olmayan, önemine binaen Allah’ın zat ve sıfatları konusunun umûr-i âmme bahislerinin önüne alındığı eserde bütün konular Mâtüridî ekolün tercihlerini yansıtmaktadır.\n\nHızır Bey’in mezkûr eseri üzerine yazılan şerhler takip edildiğinde Osmanlı kelam anlayışındaki değişim ve dönüşümler fark edilir hale gelmektedir. Talebesi Hayâlî’nin şerhi, Fahreddin Razî sonrası kelam anlayışı ile Osmanlı’nın kelâmî-irfânî olarak nitelenen eklektik fikir yapısını yansıtırken; 18. Yüzyılda yazılan Hafız er-Rûmî, Davud el-Karsî ve İbrahim b. Abdulvehhab’ın şerhleri felsefî tartışmaları gereksiz gören, tasavvufî eleştirileri barındıran, Mâtürîdî vurgusu artmış bir anlayışı yansıtmaktadır.\n\nKaside-i nûniyye Osmanlı’nın son döneminde orta öğrenim müfredatında yer almaktadır. Bu durum Hızır Bey’in ilmî tesirinin 18. Yüzyıldan Osmanlı’nın son dönemlerine kadar artarak devam ettiğini göstermektedir."
+		}
+	}
+}

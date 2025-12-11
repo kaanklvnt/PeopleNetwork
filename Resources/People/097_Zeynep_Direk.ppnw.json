@@ -1,0 +1,29 @@
+{
+	"Name": "Zeynep Direk",
+	"Desc": "Feminist felsefe ve çağdaş Fransız felsefesi alanlarında yaptığı çalışmalarla tanınan Türk filozof, akademisyen, çevirmen",
+	"Period": "Republic",
+	"Lifetime": [ 1966, 0 ],
+	"Importance": "Mid",
+	"GUI": {
+		"Position": [ 135, 240 ],
+		"Color": [ 167, 167, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Doğum Yeri ve Yılı: İstanbul, Türkiye - 1966\n• Akademik Alanı: Felsefe\n• Çalıştığı Üniversiteler:\n----> Boğaziçi Üniversitesi\n----> Koç Üniversitesi\n----> İstanbul Üniversitesi\n• Felsefi Eğilimleri ve İlgi Alanları:\n----> Felsefi Ekolleri:\n--------> Kıta felsefesi\n--------> Feminist felsefe\n----> İlgilendiği Konular:\n--------> Çağdaş Fransız felsefesi\n--------> Fenomenoloji\n--------> Sosyal ve politik felsefe\n--------> Etik ve ahlak felsefesi\n----> Etkilendiği Düşünürler:\n--------> Maurice Merleau-Ponty\n--------> Emmanuel Levinas\n--------> Jacques Derrida\n• Akademik Çalışmalar ve Katkıları:\n----> Yayınları ve Çalışmaları:\n--------> Feminist felsefe üzerine makaleler\n--------> Fransız fenomenolojisi ile ilgili çeviriler ve yorumlar\n--------> Etik ve siyasetin kesişimi üzerine düşünsel araştırmalar\n----> Öne Çıkan Çalışmaları:\n--------> Feminist düşüncenin felsefi temelleri üzerine derinlemesine araştırmalar\n--------> Çağdaş Fransız düşünürlerinin etik yaklaşımlarını inceleyen çalışmalar\n--------> Sosyal adalet ve etik teorileri üzerine akademik katkılar"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Zeynep Direk (doğum 1966, İstanbul), feminist felsefe ve çağdaş Fransız felsefesi alanlarında yaptığı çalışmalarla tanınan Türk filozof, akademisyen ve çevirmen. Koç Üniversitesi Felsefe Bölümü'nde profesörlük görevini sürdürmektedir.\n\n   1966 yılında İstanbul'da doğdu. Annesi felsefe öğretmeni Nuran Direk, babası yüksek kimya mühendisi Altay Direk'tir.[2]\n\nOrtaöğrenimini Galatasaray Lisesi'nde, yükseköğrenimini Boğaziçi Üniversitesi Felsefe Bölümü'nde (1990) tamamladı. Aynı üniversitede felsefe alanında yüksek lisans derecesi aldı (1992).[3] Doktora eğitimine Kanada'da, University of Western Ontario'da başladı.[4] 1995-1996 yıllarında Paris'te Jacques Derrida'nın derslerini takip etti.[4] Doktora derecesini 1998 yılında Memphis Üniversitesi'nden aldı.[5]\n\n1998-2014 yılları arasında Galatasaray Üniversitesi'nde görev yaptı. 2010 yılında profesör unvanını aldı. 2014 yılından itibaren Koç Üniversitesi Felsefe Bölümü'nde öğretim üyesidir.[3]"
+		},
+		"2": {
+			"Header": "Seçili Eserleri",
+			"Content": "• Yazar:\n----> Başkalık Deneyimi - Kıta Avrupası Felsefesi Üzerine Denemeler, 2013\n----> Cinsel Farkın İnşası, 2018\n----> Ontologies of Sex: Philosophy in Sexual Politics: Philosophy in Sexual Politics, 2020\n----> Çağdaş Kıta Felsefesi: Bergson'dan Derrida'ya, 2021\n• Editör:    • y Felsefesi Üzerine İncelemeler, 2003\n----> Çağdaş Fransız Düşüncesi, 2004 (Refik Güremen ile birlikte)\n----> Zaman ve Başka, Emmanuel Levinas, 2005 (Çeviri editörü ve çevirinin önsözünün yazarı)\n----> Cinsiyetli Olmak, 2007\n----> Jean-Paul Sartre: Tarihin Sorumluluğunu Almak, 2013 (Gaye Çankaya ile birlikte)\n----> A Companion to Derrida, 2014 (Leonard Lawlor ile birlikte)\n----> Cinsiyetli Yazmak, 2016\n• Çevirmen:\n----> Irk Kavramını Kim İcat Etti?: Felsefi Düşüncede Irk ve Irkçılık, Robert Bernasconi, 2000 (Tendü Meriç ve diğerleri ile birlikte)\n----> Sonsuza Tanıklık, Emmanuel Levinas, 2010 (Medar Atıcı ve diğerleri ile birlikte)\n----> Levinas Okumaları, Robert Bernasconi, 2011\n----> Leibniz: Mümkün Dünyaların En İyisi, Jean-Paul Mongin, 2012\n----> Platon'un Eczanesi, Jacques Derrida, 2014\n----> Otur Kızım: Kadın Düşmanlığının Mantığı, Kate Manne, 2017 (Ata Mert Binicioğulları ile birlikte)"
+		},
+		"3": {
+			"Header": "Derrida ve Laiklik",
+			"Content": "Özet: Vahiy - akıl tartışması Sokrates'ten bu yana felsefe tarihini belirleyen temel tartışmalardan biridir. Söz konusu tartışma 1990'larla birlikte ortaya atılan \"Dinlerin Geri Dönüşü\" fenomeniyle başka bir tarzda ele alınmaya başlamıştır. Fransız düşünür Jacques Derrida, bu tartışmaya tıbbi terminolojiden aldığı \"kendine bağışıklık\" kavramı çerçevesinde dahil olur. Bu çalışma Jacques Derrida'nın ilgili görüşlerinden hareketle laiklik kavramı üzerine bir soruşturma gerçekleştirmeyi hedeflemektedir."
+		}
+	}
+}

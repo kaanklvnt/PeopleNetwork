@@ -1,0 +1,21 @@
+{
+	"Name": "Ömer Türker",
+	"Desc": "İslam felsefesi, metafizik ve bilgi teorisi alanlarında önemli çalışmalar yapmış akademisyen",
+	"Period": "Republic",
+	"Lifetime": [ 1975, 0 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ 250, 25 ],
+		"Color": [ 255, 245, 221 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Eğitimi ve Akademik Kariyeri:\n----> 1997 yılında Uludağ Üniversitesi İlahiyat Fakültesi'nden mezun oldu.\n----> 1999 yılında Sakarya Üniversitesi Sosyal Bilimler Enstitüsü'nde yüksek lisansını tamamladı.\n----> 2006 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü'nde doktorasını tamamladı.\n----> 2012 yılında Marmara Üniversitesi İlahiyat Fakültesi'nde öğretim üyesi olarak göreve başladı.\n----> 2012 yılında doçent, 2017 yılında profesör unvanını aldı.\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n----> Ömer Türker, özellikle İslam felsefesi, metafizik ve bilgi teorisi üzerine çalışmalar yapmıştır.\n--------> İslam Felsefesi: Fârâbî, İbn Sînâ ve Seyyid Şerîf el-Cürcânî üzerine araştırmalar yaptı.\n--------> Metafizik: Varlık ve bilgi arasındaki ilişkiyi inceledi.\n--------> Bilgi Teorisi: Erken dönem İslam düşüncesinde bilgi ve yorumlama süreçlerini ele aldı.\n• Akademik ve Kültürel Katkıları:\n----> Türkiye Diyanet Vakfı İslam Araştırmaları Merkezi'nde araştırmacı olarak çalıştı (2005-2012).\n----> İslam düşüncesinin temel meseleleri üzerine akademik yayınlar yaptı.\n----> Metafizik ve ahlâk üzerine çok sayıda makale ve tercüme yayımladı.\n• Önemli Eserleri:\n----> İbn Sînâ Felsefesinde Metafizik Bilginin İmkânı Sorunu\n----> İslam’da Metafizik Düşünce\n----> Erken Dönem Tefsirlerinde Tevil Sorunu\n----> Varlık Nedir?\n----> Ahlâk: Yeni Bir Yaklaşım\n----> Anlamı Tamamlamak\n----> İslam Düşüncesi: Kelam, Felsefe, Tasavvuf\n----> İslam Felsefesine Konusal Giriş"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Prof.Dr.Ömer Türker 1975’te Keskin,Kırıkkale’de doğdu.1997’de Uludağ Üniversitesi İlahiyat Fakültesi’nden mezun oldu.1999’da Sakarya Üniversitesi Sosyal Bilimler Enstitüsü’nde”Mukatil Bin Süleyman’ın Kur’an’ı Te’vil Yöntemi”başlıklı teziyle yüksek lisansını, 2006’da Marmara Üniversitesi Sosyal Bilimler Enstitüsü’nde”Seyyid Şerif el-Cürcani’nin Te’vil anlayışı:yorumun Metafizik,Mantıki  ve Dilbilimsel Temelleri”başlıklı teziyle doktorasını tamamladı.\n\n2012 yılı itibariyle Marmara Üniversitesi İlahiyat Fakültesin’de yardımcı Doçent Doktor olarak göreve başanır.2012 yılında Doçent,2017 yılında profesör oldu."
+		}
+	}
+}

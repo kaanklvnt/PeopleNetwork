@@ -1,0 +1,33 @@
+{
+	"Name": "Doğan Özlem",
+	"Desc": "Türk felsefeci",
+	"Period": "Republic",
+	"Lifetime": [ 1944, 2022 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ 145, 45 ],
+		"Color": [ 214, 255, 165 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Ön Bilgi",
+			"Content": "• Doğum Yeri ve Tarihi: İzmir, Türkiye - 1944\n• Eğitimi ve Akademik Kariyeri:\n----> İstanbul Üniversitesi Edebiyat Fakültesi Felsefe Bölümü'nden mezun oldu (1971).\n----> Max Weber’de Bilim ve Sosyoloji adlı doktora tezini tamamladı (1979).\n----> Ege Üniversitesi'nde akademik kariyerine başladı, 1988’de doçent, 1993’te profesör oldu.\n----> Muğla Üniversitesi'nde Felsefe Bölüm Başkanlığı yaptı (2001-2007).\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n----> Doğan Özlem, özellikle hermeneutik (yorum bilgisi), tarih felsefesi ve kültür felsefesi alanlarında çalışmalar yapmıştır.\n--------> Hermeneutik: Anlam ve yorum üzerine yoğunlaştı.\n--------> Tarih Felsefesi: Tarih bilinci ve tarihsellik kavramlarını inceledi.\n--------> Kültür Felsefesi: Kültür bilimleri ve epistemoloji üzerine çalışmalar yaptı.\n• Akademik ve Kültürel Katkıları:\n----> Türkiye’de felsefenin gelişimine önemli katkılar sağladı.\n----> Bilim ve tarih bilinci üzerine eserler yazdı.\n----> Türkiye Bilimler Akademisi Hizmet Ödülü'ne layık görüldü (2005).\n• Önemli Eserleri:\n----> Bilim Felsefesi\n----> Etik – Ahlâk Felsefesi\n----> Tarih Felsefesi\n----> Kültür Bilimleri ve Kültür Felsefesi\n----> Max Weber’de Bilim ve Sosyoloji"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "1944 yılında İzmir'de doğdu. İzmir Atatürk Lisesi'nde başladığı lise öğrenimini tamamlayamadan kunduracı kalfası ve tezgâhtar olarak çalışmak zorunda kaldı. 1965'te Sivas'a er olarak askere gitti. Liseyi askerliği sırasında dışarıdan sınavlara girerek bitirdi. Yine askerliği sırasında üniversite giriş sınavını kazandı. 1967'deki terhisinden sonra İstanbul Üniversitesi Edebiyat Fakültesi Felsefe Bölümü'nde yükseköğrenime başladı ve bu bölümden 1971'de mezun oldu. 1971-1974 arasında Almanya'da bulundu ve çeşitli işlerde çalıştı. Mezun olduğu bölümde 1974'te başlayıp daha sonra Max Weber'de Bilim ve Sosyoloji (1990) adıyla yayımlanan doktora tezini 1979'da tamamladı. Yükseköğrenimi ve doktora çalışması sırasında (1967-1979) Almanya'da ve Türkiye'de işçi, büro memuru, sendikacı, muhasebeci ve yönetici olarak çalıştı. 1980'de, 36 yaşındayken, Ege Üniversitesi Edebiyat Fakültesi Felsefe Bölümü'nde asistan olarak göreve başladı. 1988'de doçent, 1993'te profesör oldu. 2001'de kendi isteğiyle emekliye ayrıldıktan sonra, aynı yıl içerisinde Muğla Üniversitesi Fen-Edebiyat Fakültesi Felsefe Bölümü'nde akademik hayata yeniden döndü. Burada 2007 yılına kadar bölüm başkanlığını yürüttü. 27 Eylül 2022 tarihindeki ölümüne kadar da öğretim üyeliği görevine devam etmiştir."
+		},
+		"2": {
+			"Header": "Ölümü",
+			"Content": "2004 yılında adına Anlama ve Yorum: Doğan Özlem Armağan Kitabı hazırlanmış, 2005 yılında ise TÜBA-Türkiye Bilimler Akademisi Hizmet Ödülü'ne layık görülmüştür. Özlem, 27 Eylül 2022'de doğal nedenlerden 78 yaşında hayata veda etmiştir."
+		},
+		"3": {
+			"Header": "Kitapları",
+			"Content": "• Bedia Akarsu Armagani, Betül Çotuksöken ile birlikte\n• Bilim Felsefesi (ders notları)\n• Bilim, Tarih ve Yorum\n• Etik –Ahlâk Felsefesi-\n• Felsefe ve Doğa Bilimleri\n• Felsefe ve Tin Bilimleri (hazırlanıyor).\n• Felsefe Yazıları\n• Kavramlar ve Tarihleri I\n• Kavramlar ve Tarihleri II\n• Kültür Bilimleri ve Kültür Felsefesi\n• Liseler için Mantık\n• Mantık, Klasik/Sembolik Mantık, Mantık Felsefesi\n• Max Weber'de Bilim ve Sosyoloji\n• Metinlerle Hermeneutik (Yorum bilgisi) Dersleri (2 cilt)\n• Selâhattin Hilâv'a Saygı, Güçlü Ateşoğlu ile birlikte\n• Siyaset, Bilim ve Tarih Bilinci\n• Tarih Felsefesi\n• Tarih Felsefesi: Seçme Metinler, Güçlü Ateşoğlu ile birlikte\n• Vehbi Hacıkadiroğlu Armağanı: Felsefe Tartışmaları, Hayrettin Ökçesiz ve Şükrü Argın ile birlikte Mehmet Küçük'e"
+		},
+		"4": {
+			"Header": "Görüşü",
+			"Content": "Doğan Özlem, eserleriyle Türkiye’de felsefenin gelişimine önemli katkılarda bulunmuş bir felsefecidir. Onun eserlerinin, felsefenin geniş bir problemler alanına ilişkin olduğu görülür. Ele aldığı başlıca konular şöyle sıralanabilir: tarih, kültür, bilgi, bilim, mantık, anlama, yorumlama vb. Her filozofun açık ya da örtük bir felsefe anlayışı vardır. Özlem, tarihselci ve hermeneutik bir felsefe anlayışını benimser. O çalışmalarını hermeneutik geleneği içinde sürdürmüştür. Onun felsefi çalışmalarında kavramların tarihine/tarihselliğine özel bir önem vermesi de söz konudur. Özlem’in özellikle kültür bilimleri felsefesine yaptığı katkılar önemlidir. Özlem, doğa bilimleri ve kültür bilimlerini epistemolojik ve metodolojik açıdan irdelemiş ve bilimle siyaset ve iktidar ilişkilerini ele almıştır. Kültür kavramı da Özlem’in temel kavramlarından biridir. Özlem’e göre, kültür kavramı hem bir imkan kavramı hem de bir gerçeklik kavramıdır. Doğan Özlem'in felsefe anlayışında tarih, tarih bilinci, tarihsellik gibi kavramlar önemli bir yere sahiptir. Tarih felsefesinin Türkiye’de bir disiplin olarak gelişmesinde önemli katkıları vardır. Özlem, Türkçede ve Türkiye’de üretilen felsefeyle ve felsefecilerle de ilgilenir. Akademik alan dışındaki düşünürleri de inceler."
+		}
+	}
+}

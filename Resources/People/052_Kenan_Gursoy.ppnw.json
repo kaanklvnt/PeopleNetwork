@@ -1,0 +1,29 @@
+{
+    "Name": "Kenan Gürsoy",
+    "Desc": "Felsefeci, araştırmacı-yazar, diplomat, büyükelçi",
+    "Period": "Republic",
+    "Lifetime": [ 1950, 0 ],
+    "Importance": "High",
+    "GUI": {
+        "Position": [ -155, -140 ],
+        "Color": [ 184, 244, 252 ]
+    },
+    "Content": {
+        "0": {
+            "Header": "Temel Bilgiler",
+            "Content": "• Doğum Yeri ve Tarihi: Ankara, Türkiye - 29 Aralık 1950\n• Eğitimi ve Akademik Kariyeri:\n• Saint Benoît Fransız Lisesi'nden mezun oldu.\n• Fransa'da Rennes ve Paris-Sorbonne Üniversitelerinde felsefe eğitimi aldı.\n• Atatürk Üniversitesi Felsefe Bölümü'nde asistan olarak akademik kariyerine başladı.\n• 1979'da felsefe doktoru, 1983'te doçent, 1989'da profesör unvanlarını aldı.\n• Galatasaray Üniversitesi Fen-Edebiyat Fakültesi'nde dekanlık ve felsefe bölümü başkanlığı yaptı.\n• 2009-2014 yılları arasında Türkiye'nin Vatikan Büyükelçisi olarak görev aldı.\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n----> Kenan Gürsoy, özellikle etik, fenomenoloji, varoluşçu felsefe ve tasavvuf alanlarında çalışmalar yapmıştır.\n• Etik: İnsan eylemlerinin ahlaki boyutlarını inceledi.\n• Fenomenoloji: Algı ve bilinç üzerine"
+        },
+        "1": {
+            "Header": "Hayatı",
+            "Content": "29 Aralık 1950, Ankara doğumlu. Ankara Üniversitesi Hukuk Fakültesi’nde bir dönem öğretim üyeliği yapan Prof. Dr. Kemal Tahir Gürsoy’un oğludur. İstan¬bul Hırka-i Şerîf İlkokulu (1962), Saint-Benoit Fransız Erkek Lisesi (1970), Fransa’da bulunan Rennes ve Paris-Sorbonne üniversi¬teleri (1974) mezunu. Türkiye’ye döndüğünde askerliğinin ardından Ata¬türk Üniversitesi Fen Edebiyat Fakültesi Felsefe Bölümü’nde (1977) asistan olarak göreve başladı ve aynı üniversitede doktorasını tamamladı (1979). Paris Nanterre Üniversitesi Fel¬sefe Bölümü’nde araştırmacı olarak görevlendirildi (1981-82). Atatürk Üniversitesi’nde yardımcı doçent (1982), sistematik felsefe ve mantık alanla¬rında doçent (1983) unvanlarını aldıktan sonra Ankara Üniversitesi Dil ve Tarih Coğrafya Fakültesi Felsefe Bölümü’ne doçent olarak atandı (1984). Burada profesör oldu (1989) ve felsefe anabilim dalı başkanlığını üstlendi (1994). Sonrasında Galatasaray Üniversitesi’ne geçerek (1997) Edebiyat Fakültesi Felsefe Anabilim Dalı Başkanı, Sosyal Bilimler Enstitüsü Müdürü ve Edebiyat Fakültesi Dekanı olarak görev yaptı. Sorbonne Üniver¬sitesi’nde ders verdi (2003). Çalışmalarını Galatasaray Üniversitesi Fen Edebiyat Fakültesi Dekanı ve Felsefe Bölümü öğretim üyesi olarak sürdürdü. 2005-2009 yılları arasında TRT 2 kanalında yayınlanan Düşünce İklimi programını sundu. 2009’da Türkiye'nin Vatikan büyükelçisi olarak atandı.\n\nTürk ta¬savvufu, ekzistans felsefesi, fenomenoloji, etik ve mukayeseli dinî etik konuları üze¬rinde çalışmalarını derinleştiren Gürsoy, yurtiçi ve yurtdışında pek çok seminer, sempozyum ve konferansa katıl¬dı. Türk kültür hayatında ve eğitim sisteminde felsefî tutum ve düşüncenin yaygınlaşması için çaba harcadı. Makaleleri, yerli ve yabancı birçok dergide yayımlandı."
+        },
+        "2": {
+            "Header": "Eserleri",
+            "Content": "ARAŞTIRMA: Traduction et Commentaire de Maquamat al Awliya de Akşemsettin (1983), Jean Paul Sartre Ateizmi’nin Doğurduğu Problemler (1987, 1991), Ekzistans ve Felsefe Üzerine Görüşler (1988), Maurice Merleau-Ponty’de İdrak Problemine Giriş (1993), Yabancıların Gözüyle Türkler ve Türkiye (ortak kitap, 1995), Bir Felsefe Geleneğimiz Var mı? (2006), Gönül Gözü (Tuğrul İnançer ile birlikte, 2006), Bir Evrensel Projemiz Var mı? (2007), Etik ve Tasavvuf (2008).\n\nÇEVİRİ: Fenomenoloji ve İnsan Bilimleri (M. Merleau-Ponty’den, 1983), Fârâbî’de İniş ve Yükseliş: İkiye Ayrılan Bir Bağlantı Zinciri (Yues Marguet’den, 1990), Fârâbî’nin Erdemli Şehri ve Ümmet (Roger Arnaldez’den, 1990).\n\nDERS KİTABI: Felsefeye Giriş (Ortak kitap, 1985)."
+        },
+        "3": {
+            "Header": "Kenan Gürsoy'un Felsefe ve Edebiyat Tasavvuru",
+            "Content": "Bir varoluş düşünürü ve medeniyet filozofu olan Kenan Gürsoy, kendi özgün felsefesini ekzistansiyel bir temellendirme üzerine inşa etmiştir.1 Temel teması insan ve insana kendini buldurma arayışı üzerine kurulu olan bu felsefi bakış, insana dair her türlü meseleyi gündemine almaktadır. İnsanın yeryüzündeki bulunuş gayesi, varoluşunu gerçekleştirme kaygısı, insan ve toplumun reşit kılınma çabası, kendiliği oluşturma ideali bu felsefi anlayışın temel meseleleridir. Bu çalışmada Gürsoy’un felsefesini özgün kılan temel tasavvurlarından biri olan felsefe ve edebiyat ilişkisi üzerinde durulacaktır. Bu bakış açısı, özgünlüğünün yanı sıra disiplinlerarası alana sağladığı geniş ufuklar itibariyle; belli bir metot çerçevesi üzerinden incelenmeye gayret edilecektir. Gürsoy’un “edebî-felsefi form” olarak adlandırdığı türün; edebî, felsefi ve tasavvufi metin incelemelerine sağladığı ufuklar başta olmak üzere hangi ölçütler üzerinden bu alanın varlık kazanabileceği hususundaki görüşleri belirtilecektir. Bu bağlamda öncelikle felsefe-tasavvuf ilişkisi üzerinde durulacak, edebî-felsefi formun ne olduğu açıklandıktan sonra da felsefi tasavvufi-etik ve estetik (edebî) alanın mahiyeti incelenmeye çalışılacaktır."
+        }
+    }
+}

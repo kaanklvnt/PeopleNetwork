@@ -1,0 +1,29 @@
+{
+	"Name": "Yılmaz Öner",
+	"Desc": "Şair, felsefeci, çevirmen",
+	"Period": "Republic",
+	"Lifetime": [ 1928, 2003 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ -70, -280 ],
+		"Color": [ 167, 210, 145 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Eğitimi ve Akademik Kariyeri:\n----> İstanbul Erkek Lisesi'nden mezun oldu (1946).\n----> İstanbul Üniversitesi Fen Fakültesi Matematik Bölümü'nde eğitim aldı (1951).\n----> Almanya'da Göttingen Üniversitesi'nde matematik ve fizik öğrenimi gördü.\n----> Fransa Poitiers Üniversitesi ve İngiltere Cambridge Üniversitesi'nde akademik çalışmalar yaptı.\n----> Oxford Üniversitesi ve Türkiye'nin çeşitli üniversitelerinde bilim tarihi ve felsefe konularında konferanslar verdi.\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n----> Yılmaz Öner, özellikle bilim felsefesi, diyalektik düşünce ve zaman teorisi üzerine çalışmalar yapmıştır.\n--------> Bilim Felsefesi: Bilimsel yöntemin felsefi temellerini sorguladı.\n--------> Diyalektik Düşünce: Olasılık ve determinizm arasındaki ilişkiyi inceledi.\n--------> Zaman Teorisi: \"Zaman Enlem\" kavramını ortaya koyarak kuantum teorisiyle ilişkilendirdi.\n• Akademik ve Kültürel Katkıları:\n----> Türkiye’de bilim felsefesi ve matematik alanında önemli katkılar sağladı.\n----> Göttingen Üniversitesi'nde Werner Heisenberg’den ders aldı.\n----> 1992 Oxford Bilim Felsefesi Konferanslarında zaman teorisini sundu ve uluslararası ilgi gördü.\n• Önemli Eserleri:\n----> Metafizik Şuur ve Matematik-Metafizik Hakkında (1951)\n----> Diyalektik: Olasılık’tan Determinizm’e Doğru (1976)\n----> Faşizm Üzerine Notlar (1977)\n----> Canlıların Diyalektiği ve Yeni Evrim Teorisi (1978)\n----> Pozitivizmi Eleştirmek (1985)\n----> Bilimlerde ve Sanatta Diyalektik (1992)\n----> Prodeterminizm - Yaşar-Kalma Olasılığı ve Zamanın Doğası (2000)"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Şair, felsefeci, çevirmen. 12 Eylül 1928, İstanbul doğumlu. Tam adı Mehmet Yılmaz Öner. İstanbul Erkek Lisesi (1946) ve İstanbul Üniversitesi Fen Fakültesi Matematik Enstitüsü (1951) mezunu. Ayrıca Almanya (Göttingen Üniversitesi Matematik-Fizik Bölümü, 1951-55), Fransa (Poitiers Üniversitesi Edebiyat Bölümü, 1957-58) ve İngiltere’de (Cambridge Üniversitesi Yabancı Diller Bölümü, 1958) öğrenim gördü. Yapı Kredi Bankasının Resimli Bilgi Ansiklopedisi ile Yurt Ansiklopedisi’nde madde yazarlığı ve redaktörlük, bir tercüme bürosunda çevirmenlik yaptı. Çalışmalarını İstanbul’da sürdürdü.\n\nBilim felsefesi ağırlıklı yazılarını, 1979’dan itibaren Yeni Olgu, Doğa-Bilim, Tiyatro Dergisi, Evrensel Kültür ve İskenderiye Yazıları dergilerinde yayımladı. Batı edebiyatı ve düşüncesinden çok sayıda çevirisi vardır. Türkiye Yazarlar Sendikası üyesidir."
+		},
+		"2": {
+			"Header": "Eserleri",
+			"Content": "ŞİİR: Şiirin Lüzumu Yok (1982).\n\nDENEME: Metafizik Şuur ve Matematik-Metafizik Hakkında (1951), Geleneksel Çin Felsefesi ve Sosyal Karar Teorisi (1974), Diyalektik: Olasılık’tan Determinizm’e Doğru (1976), Faşizm Üzerine Notlar (1977), Canlıların Diyalektiği ve Yeni Evrim Teorisi (1978), Bunalım Teorisinin Matematiği (1983), Din Üretim Biçimleri Hakkında (1984), Pozitivizmi Eleştirmek (1987), Olasılıkçı Determinizm (1987), Bilimlerde ve Sanatta Diyalektik (1990), Zaman İçimizde Dışımızda (1994), Prodeterminizm: YaşarKayma Olasılığı ve Zamanın Doğası / Prodeterminismus: Überlebenswahrscheinlichkeit und Natur der Zeit (2000), Fizik ve Felsefe (2001)."
+		},
+		"3": {
+			"Header": "Heisenberg, Nedensellik ve Determinizm",
+			"Content": "Bilimsel çalışmalarda çeşitli yönleriyle zaten ele alınmış olan bu konu birçok yönden başka konularla karşılıklı etkileşimleri içinde, bütünsel olarak değerlendirilmelidir. Bu değerlendirme yapılırken dönemin sosyal ve siyasi koşulları da dikkate alınırsa, konuların anlaşılır hale gelebilme şansı artar. Doğa bilimlerindeki devrimsel atılımlar bu sosyal psikolojik koşulları daha ileri bir noktaya taşıyabildiği gibi, geriye doğru bir sıçrama da yaşanabilir. Dönemi itibariyle Newton’un mekanik yasaları, aklın özgürleşmesi ve doğanın anlaşılmasında ileriye doğru itilim sağlayan devrimci bir işlev görmüştür. 1900’lü yılların başında ortaya çıkan, doğanın daha bütünsel bir resmini sunan kuantum mekaniği ise çıkışı itibariyle ciddi bir kafa karışıklığına yol açmış ve o güne kadar elde edilen kavramsal kazanımları da geriye doğru sıçratan bir anlayışın oluşmasına katkıda bulunmuştur. Bu makale bu geri sıçramayı eleştirel bir açıdan sorgulamakta ve aksini iddia ederek yeni gelişmelerle kuantum mekaniksel bulgulamaların, doğayı anlayıp değiştirme ve dönüştürme noktasında çok daha yetkin bir araç haline gelebileceği görüşünü savunmaktadır."
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"Name": "Ayşe Gülnihan Küken",
+	"Desc": "Türk akademisyen, felsefe profesörü ve araştırmacı-yazar",
+	"Period": "Republic",
+	"Lifetime": [ 1950, 2020 ],
+	"Importance": "Mid",
+	"GUI": {
+		"Position": [ -115, 55 ],
+		"Color": [ 179, 124, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Ön Bilgi",
+			"Content": "• Doğum yeri ve yılı: İstanbul, Türkiye – 16 Eylül 1950\n----> Eğitim hayatına İstanbul’da başladı. Daha sonra İstanbul Üniversitesi Edebiyat Fakültesi Klasik Filoloji Bölümü’nden mezun oldu.\n• Ölüm yeri ve tarihi: İstanbul, Türkiye – 30 Haziran 2020\n----> Uzun yıllar boyunca akademik çalışmalar yürüttü ve felsefe alanında önemli eserler verdi.\n• Felsefi ekolleri ve çalışma alanları:\n----> Türk-İslam Düşüncesi: Türk-İslam filozoflarında duyular ve akıl arasındaki ilişkiler üzerine çalışmalar yapmıştır.\n----> Karşılaştırmalı Felsefe: İbn Rüşd ve St. Thomas Aquinas felsefelerinin karşılaştırılması üzerine doktora çalışması yapmıştır.\n----> Eğitim Felsefesi: Ortaçağ ve İlkçağ eğitim felsefesi üzerine eserler vermiştir.\n----> Bilgi Felsefesi: Gazzâlî felsefesinde bilgi problemi üzerine araştırmalar yürütmüştür."
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Akademisyen, Felsefe Tarihi Profesörü, Araştırmacı-Yazar (D. 16 Eylül 1950, İstanbul – Ö. 30 Haziran 2020, İstanbul). İlk ve ortaöğrenimini İstanbul’da yaptı. Ailesiyle birlikte beş yıl süreyle kaldığı Almanya’da dil kurslarına devam etti. İstanbul Üniversitesi Edebiyat Fakültesi Klasik Filoloji Bölümünden 1986 yılında mezun oldu. Aynı yıl Felsefe Bölümü Türk-İslâm Düşüncesi Tarihi Anabilim Dalına araştırma görevlisi olarak atandı.\n\n“Türk-İslâm Filozoflarında Duyular ve Akıl Arasındaki İlişkiler” konulu yüksek lisans tezini 1987’de, “İbn Rüşd ve St. Thomas Aquinas Felsefelerinin Karşılaştırılması” başlıklı doktora tezini ise 1994 yılında tamamladı. 1997 yılında Doçent, Profesör unvanlarını aldı.\n\nÇalışmalarını 2006’dan itibaren İstanbul Üniversitesi, Hasan Ali Yücel Eğitim Fakültesi öğretim üyesi olarak sürdürdü.\n\nFelsefe, eğitim ve ahlak felsefesi konularında makale ve çevirileri 1997 yılından itibaren Cogito, Us, İnsancıl, Felsefe Dünyası, Felsefe Arkivi dergilerinde yayımlandı. Çok sayıda bilimsel toplantıda bildiri sundu.\n\nProf. Dr. Gülnihal Küken, 30 Haziran 2020 günü İstanbul’da hayatını kaybetti."
+		},
+		"2": {
+			"Header": "Kitapları",
+			"Content": "Felsefede Eğitim (1996), Doğu-Batı Felsefi Etkileşiminde İbn Rüşd ve St. Thomas Aquinas Felsefelerinin Karşılaştırılması (1996), Gazzâlî ve Pascal’de Şüphecilikten Sezgiciliğe (1997), Gazzâlî Felsefesinde Bilgi Problemi (1997), Ortaçağ’da Eğitim Felsefesi (2001), İlkçağ’da Eğitim Felsefesi (2003)."
+		},
+		"3": {
+			"Header": "Orta Çağ Felsefesinde Dil, Düşünce ve Gerçeklik İlişkileri ve Metafizik Alandaki İz düşümleri",
+			"Content": "Bir bütün olarak bakıldığında ortaçağ felsefesi, özde Tanrı’nın varlığı, neliği ve kutsal metinlerin yorumu sorununa odaklanmış bir felsefedir. Bu durum, ortaçağ filozofunun, bunların dışında başka sorunlarla uğraşmadığı anlamına gelmez. Ortaçağ filozofu, felsefenin temel ilgisi olan, dil, düşünce ve gerçeklik ilişkilerinden kaynaklanan pek çok sorunu ele alır ve tartışır. Hatta dil konusunda köklü felsefi analizler yapar. Fakat tüm bu sorunları, modern filozofun yaptığı gibi seküler bir temelde, kendinde bir sorun olarak ele almaz; onları Tanrı’nın varlığı ve neliği ile kutsal metinlerin yorumu bağlamında ele alıp tartışır. İşte bu makale, ortaçağ Hıristiyan ve İslam filozoflarınca Tanrı ve kutsal metinlerin yorumu bağlamında tartışılan ve aslında dil, düşünce ve gerçeklik ilişkileriyle yakından ilgili olan üç ana soruna odaklanmaktadır: İlki, dış dünyayı ve kutsal metinlerin içeriklerini bilme; ikincisi, aşkın olan Tanrı’nın neliğini dil ve düşünce içerisinde kavrama; üçüncüsü ise, ilk iki sorunla doğrudan ilişkili olan tümellerin ontolojik ve epistemolojik konumu sorunudur. Bu sorunlar, ortaçağda köklü tartışmalara yol açmıştır ve yürütülen tartışmalar, modern felsefeye uzanan yolda, önemli adımlar olarak nitelenmeyi hak edecek derinliktedir."
+		}
+	}
+}

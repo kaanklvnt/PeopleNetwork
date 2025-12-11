@@ -1,0 +1,33 @@
+{
+	"Name": "Seyla Benhabib",
+	"Desc": "Yahudi asıllı Türk felsefeci",
+	"Period": "Republic",
+	"Lifetime": [ 1950, 0 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ 250, 65 ],
+		"Color": [ 255, 163, 204 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Eğitimi ve Akademik Kariyeri:\n----> Robert Koleji'nden mezun oldu.\n----> Brandeis Üniversitesi'nde felsefe eğitimi aldı.\n----> Yale Üniversitesi'nde doktorasını tamamladı (1977).\n----> Harvard Üniversitesi, Yale Üniversitesi ve Cambridge Üniversitesi'nde dersler verdi.\n----> New School Araştırma Merkezi'ni yönetti.\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n---->Seyla Benhabib, özellikle demokrasi, insan hakları ve kozmopolitizm üzerine çalışmalar yapmıştır.\n--------> Demokrasi: Katılımcı demokrasi ve yurttaşlık hakları üzerine araştırmalar yaptı.\n--------> İnsan Hakları: Küresel adalet ve göçmen hakları üzerine çalışmalar yürüttü.\n--------> Feminist Teori: Kadın hakları ve toplumsal cinsiyet eşitliği üzerine önemli katkılar sundu.\n• Akademik ve Kültürel Katkıları:\n----> Amerikan Sanat ve Bilim Akademisi üyesi oldu (1995).\n----> Karl Marx, Hegel, Max Weber ve Jürgen Habermas üzerine çalışmalar yaptı.\n----> 2009 yılında Ernst Bloch Ödülü'ne layık görüldü.\n• Önemli Eserleri:\n----> Situating the Self: Gender, Community and Postmodernism in Contemporary Ethics (1992)\n----> The Rights of Others: Aliens, Citizens and Residents (2004)\n----> Another Cosmopolitanism (2006)\n----> Dignity in Adversity: Human Rights in Troubled Times (2011)\n----> Exile, Statelessness, and Migration: Playing Chess with History from Hannah Arendt to Isaiah Berlin (2018)"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Seyla Benhabib 1950 yılında İstanbul'da doğdu, Robert Koleji'ni (Amerikan Kız Koleji) bitirdi. 1970'te ABD'ye giderek Brandeis Üniversitesi'nde felsefe eğitimi aldı. Daha sonra öğrenimini Yale Üniversitesi'nde sürdürdü ve doktorasını da 1977 yılında bu üniversitede tamamladı.\n\nYale Üniversitesi'nden önce, Benhabib, Boston Üniversitesi, SUNY Stony Brook ve New School Araştırma Merkezi felsefe bölümlerinde ders verdi. Siyaset bilimi ve felsefesi konularda çalıştı ve Cambridge Üniversitesi'nde; Harvard Üniversitesi'nin devlet yönetimi bölümünde [department of government] dersler verdi.\n\n1995'ten bu yana Amerikan Sanat ve Bilim Akademisi üyesi olan Benhabib, Karl Marx, Hegel, Max Weber ve Jürgen Habermas üzerine yaptığı çalışmalarla da tanınıyor.\n\nBenhabib 2009 yılında Ernst Bloch Merkezi tarafından verilen Ernst Bloch Ödülü (Erns-Bloch-Preis) madalyası ile ödüllendirilmiştir."
+		},
+		"2": {
+			"Header": "Kitapları",
+			"Content": "• Exile, Statelessness, and Migration: Playing Chess with History from Hannah Arendt to Isaiah Berlin (Princeton University Press, 2018)\n• Dignity in Adversity: Human Rights in Troubled Times (Polity, 2011)\n• Another Cosmopolitanism (Oxford University Press, 2006)\n• The Rights of Others (Cambridge University Press, 2004)\n• The Reluctant Modernism of Hannah Arendt (Rowman and Littlefield, 2003)\n• The Claims of Culture (Princeton University Press, 2002)\n• Democracy and Difference (Princeton University Press, 1996)\n• Critique, Norm and Utopia\n• Situating the Self: Gender, Community and Postmodernism in Contemporary Ethics (Routledge, 1992)"
+		},
+		"3": {
+			"Header": "Makaleler",
+			"Content": "“Modernity and the Aporias of Critical Theory”. TELOS 49 (Fall 1981). New York: Telos Press12 Haziran 2019 tarihinde Wayback Machine sitesinde arşivlendi."
+		},
+		"4": {
+			"Header": "Kapanış",
+			"Content": "Uluslararası insan hakları hukukunda yaşanan gelişmelere rağmen 20. ve 21. yüzyıllarda milyonlarca insanın temel hak ve özgürlüklerden yararlanamaması, insan haklarının ne olduğu ve nasıl korunması gerektiğine ilişkin tartışmaların gün yüzüne çıkmasına ve alternatif söylemlerin geliştirilmesine yol açmıştır. Söz konusu alternatif okullardan biri olan müzakereci söylemin temsilcilerinden Seyla Benhabib de insan haklarının ne olduğu ve nasıl olması gerektiğine cevap aramıştır.\n\nBu çalışmanın temel amacı Benhabib’in insan hakları yaklaşımını nasıl kurguladığı sorusuna cevap üretmek ve onun yaklaşımının özgün yanlarını araştırmaktır. Bu çerçevede çalışmanın kapsamını Benhabib’in düşünsel anlamda beslendiği düşünürler ve onlara yönelik eleştirel değerlendirmeleri ve söz konusu değerlendirmeler üzerine inşa ettiği insan hakları anlayışı oluşturmaktadır.\n\nBenhabib’in insan hakları anlayışının önemi son yıllarda uluslararası göç ve toplumsal hareketlere yönelik devletlerin güvenlik odaklı refleksleri nedeniyle işlevsizleşen insan haklarını yeni bir temelde gerekçelendirmesinden kaynaklanmaktadır. Benhabib, günümüzde Arendtçi anlamda toplumun dışında bırakılan milyonlarca yersiz yurtsuzun temel hak ve özgürlüklerden yararlanabilmesi ve çoğulcu demokrasinin işlerlik kazanabilmesi için insan haklarına müzakereye dayalı yeni bir çerçeve çizmektedir."
+		}
+	}
+}

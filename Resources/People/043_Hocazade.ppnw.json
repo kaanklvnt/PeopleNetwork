@@ -1,0 +1,29 @@
+{
+	"Name": "Hocazade",
+	"Desc": "Fatih Sultan Mehmed'in hocası ve meşhur İslam âlimi",
+	"Period": "Islamic",
+	"Lifetime": [ 1434, 1488 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ 115, -90 ],
+		"Color": [ 188, 230, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Tam İsim: Muslihuddin Mustafa b. Yusuf b. Salih el-Burusevî, Hocazâde\n• Doğum Yeri: Bursa\n• Ölüm Yeri: Bursa\n• Öğrencileri: Molla Bahâeddin, Molla Siraceddin, Yarhisarlı Molla Mustafa Muslihuddin, Yûsuf Karesî, Zeyrekzâde Ahmed Rukneddin, Kadızâde Kutbüddin Mehmed, Mîrim Çelebi, Gıyaseddin Kutbî, Kirmastî\n• Etkilendikleri: Hızır Bey, Gazzâlî, Seyyid Şerîf el-Cürcânî\n• Etkiledikleri: Hasan Çelebi\n• İletişimde Bulunduğu İsimler: Ali Kuşçu, Tûsî, Molla Zeyrek, Molla Seyyîd Ali Fenari, Hasan Çelebi\n• Ekolleri: Felsefe, Kelam, Yeni-Eşarîlik"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "838/1434 yılında Bursa’da doğduğu tahmin edilen Muslihiddîn Efendi, Bursa tüccarlarından Yusuf Efendi’nin oğludur. Fatih döneminin önemli âlimlerinden olan Muslihiddîn Efendi, o zamanlar ticaretle uğraşanlar “hoca” unvanıyla anıldığından “Hocazâde” diye meşhur olmuştur. Hocazâde, Celalzâde Hızır Bey’in ders halkasına katıldı. Bursa Esediyye Medresesi’nde müderrislik yaptı. Daha sonra İstanbul’a gelerek Sadrazam Mahmud Paşa vasıtasıyla Fatih Sultan Mehmed ile tanıştı ve bir müddet sultanın hocalığını yaptı. Daha sonra Kazaskerlik makamına atandı. Kazaskerlik görevinden sonra sırasıyla Bursa Sultaniye Medresesi müderrisliği, Edirne Kadılığı ve 872/1467'de Molla Hüsrev’in yerine İstanbul Kadılığı görevlerine tayin edildi. Akabinde İznik Medresesi müderrisliği ve şehrin kadılığıyla görevlendirildi. Daha sonra ilmî çalışmalarına engel olduğu için bütün resmi görevlerinden ayrıldı. II. Bâyezîd padişah olunca Bursa müftülüğüne tayin edildi. Aynı şehirde, görevi esnasında iken nikris hastalığından 839/1488'de öldü. Hocazâde'nin en önemli eseri Sultan Fatih’in isteği üzerine Gazzâlî ve İbn Rüşd arasındaki tartışmayı muhakeme eden Tehâfutü’l-Felasife'dir. Kelâm, usûl ve dil sahalarında birçok eseri bulunan Hocazâde, Ebheri'nin Hidayetü’l-Hikme'sine Mevlanâzade'nin yaptığı şerh üzerine bir talik yazmaya başlamış, ölümü üzerine eksik kalan bu taliki Mahmud el-Muğlavî tamamlamıştır."
+		},
+		"2": {
+			"Header": "Öne Çıkan Eserleri",
+			"Content": "• Tehâfütü’l-Felâsife: Süleymaniye Ktp., Şehid Ali Paşa, nr. 1583; Kahire, 1321.\n• Hâşiye ‘alâ Şerhi Hidâyeti’l-hikme li’l-Mevlânâzâde: Süleymaniye Ktp., Laleli, nr. 2211, vr. 260-289, nr. 2539, vr. 71-102; Hasan Hüsnü Paşa, nr. 1233; Ayasofya, nr. 4847, vr. 45-81; Konya Bölge Yazma Eserler Ktp., nr. 216; Beyazıt Devlet Ktp., nr. 3999; Köprülü Ktp., Mehmed Asım, nr. 269.\n• Hâşiye ‘alâ Şerhi’l-Mevâkıf li Seyyîd Şerîf Cürcânî: Süleymaniye Ktp., Amcazade Hüseyin Paşa, nr. 302; Bağdatlı Vehbi Efendi, nr. 826; Carullah Efendi, nr. 2119; Damad İbrahim Paşa, nr. 784; Hüsrev Paşa, nr. I 22.\n• Hâşiye ‘alâ Şerhi’t-Tavâlî li’l-Isfahânî: Süleymaniye Ktp., Şehid Ali Paşa, nr. 1597; Hüsrev Paşa, nr. 122.\n• Risâle fi’t-Tevhîd: Süleymaniye Ktp., Ayasofya nr. 2206."
+		},
+		"3": {
+			"Header": "Öğretisi",
+			"Content": "Hocazâde’nin en önemli eseri Gazzâlî ile başlayan Tehâfüt geleneğine dahil olan Tehâfütü’l-felâsife’dir. Tehâfüt geleneğini oluşturan eserin temel konusu İslâm düşüncesinin en temel sorunlarından birini oluşturan din-felsefe ilişkisidir.  Gazzâlî, bu eserde, filozofların matematikte ve doğa bilimlerinin bazı bölümlerinde, genel, zorunlu ve doğru kanıtları olduklarına bakarak, onların Tanrı-bilim konusunda da böyle kanıtları olduklarını zannedip, dinin gerekliliklerini hiçe saymak isteyenlere durumun böyle olmadığı göstermeye çalışmıştır. Gazzâlî’nin filozofları eleştirmek için yazdığı Tehâfütü’l-felâsife adlı eserine uzun süre cevap veril(e)memiş, yaklaşık bir asır sonra Endülüs’te, Meşşâî felsefeyi iyi anlamış ve yorumlamış bir filozof olan İbn Rüşd (ö. 1198) bu esere yönelik Tehâfütü’t-Tehâfüt adlı bir reddiye kaleme almıştır. Gazzâlî ve İbn Rüşd Tehâfüt’lerinden sonra Tehâfüt’lerin yeniden kaleme alındığı dönem, Fâtih Sultan Mehmed (1451–1481) dönemidir. XV. yüzyılda felsefe ile din arasındaki ilişkinin ortaya konulmasına yönelik kaleme alınan eserlerden biri olan Hocazâde’nin Tehâfütü’l-felâsife isimli eseri Gazzâlî’ye birçok konuda muhâlefet etmektedir. Hocazâde, daha eserinin önsözünde filozof ve kelâmcılar arasında tartışma konusu olan meseleleri tarafsız olarak ele alacağını, bununla birlikte Gazzâlî’nin Tehâfüt’ünde gördüğü bazı hataları ortaya koymaktan çekinmeyeceğini ifade etmektedir. Hatta Gazzâlî’yi eleştirmekte o kadar ileri gitmiştir ki; Kemalpaşazâde, Hocazâde’nin amacının filozofların mı, yoksa Gazzâlî’nin mi tutarsızlığını ortaya koymak olduğu konusunda tereddüt ettiğini söylemektedir. Tehâfüt’ü yirmi meseleyle tasnif eden Gazzâlî on yedi meselede filozofları eleştirmiş “Tanrı’nın bilgisi”, “âlemin kıdemi” ve “cimânî haşr” konusunda filozofları tekfir etmiştir. Hocazâde ise bu üç tekfir meselesinde de Gazzâlî’ye katılmamaktadır. Bu meselelerde Hocazâde’nin tutumu filozofların delillerinin burhânî olmadığı ve başka türlü de olabileceği imkanı üzerine inşa edilmektedir."
+		}
+	}
+}

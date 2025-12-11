@@ -1,0 +1,29 @@
+{
+	"Name": "Takiyettin Mengüşoğlu",
+	"Desc": "Felsefi antropoloji ve değerler üzerine çalışmalar yapmış Türk filozof",
+	"Period": "Republic",
+	"Lifetime": [ 1905, 1984 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ -10, 250 ],
+		"Color": [ 255, 193, 242 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Eğitimi ve Akademik Kariyeri:\n----> Sivas Lisesi'ni bitirdi (1928).\n----> Maarif Vekaleti'nin bursuyla Almanya'ya giderek felsefe eğitimi aldı.\n----> Berlin Üniversitesi'nde Nicolai Hartmann'ın öğrencisi olarak bilgi teorisi, mantık ve etik üzerine çalıştı.\n----> 1937 yılında \"Husserl ve Scheler’de Bilginin Hududu\" adlı doktora tezini tamamladı.\n----> İstanbul Üniversitesi Felsefe Bölümü'nde profesör olarak görev yaptı.\n----> 1959 yılında İstanbul Üniversitesi Edebiyat Fakültesi Dekanı seçildi.\n----> 1978 yılında emekli oldu.\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n----> Takiyettin Mengüşoğlu, özellikle felsefi antropoloji, etik ve ontoloji üzerine çalışmalar yapmıştır.\n--------> Felsefi Antropoloji: İnsanın ne olduğu sorusunu ontolojik temelde ele aldı.\n--------> Etik: İnsan eylemlerinin ahlaki boyutlarını inceledi.\n--------> Ontoloji: Varlık ve insan arasındaki ilişkiyi sorguladı.\n• Akademik ve Kültürel Katkıları:\n----> Türkiye’de felsefi antropolojinin gelişmesine büyük katkılar sağladı.\n----> İnsan felsefesini sistematik bir şekilde ele alan ilk Türk filozoflardan biri oldu.\n----> Nicolai Hartmann’ın yeni ontolojisini tamamlamayı amaçladı.\n• Önemli Eserleri:\n----> Kant’ın Felsefesi\n----> Kant ve Scheler’de İnsan Problemi\n----> İnsan Felsefesi\n----> Felsefeye Giriş\n----> Değişmez Değerler, Değişen Davranışlar"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "Takiyettin Mengüşoğlu (1905 - 1984), felsefi antropoloji ve değerler üzerine çalışmalar yapmış Türk filozoftur.\n\n1905 yılında Malatya'nın Hekimhan ilçesine bağlı Ağılbaşı mahallesinde doğdu. Orta öğrenimini Sivas'ta tamamladı. İnsan dünyasında ortaya çıkan somut problemlere yaklaşan özgün bir felsefi antropoloji geliştirmiştir. Almanya'da Maarif Vekaleti'nin bursu ve referansıyla Felsefe okudu, doktorasını da bu ülkede Almanca olarak verdi. İstanbul Üniversitesi Felsefe Bölümü'nde profesör olarak görev yaptı. En önemli kitabı Felsefeye Giriş adlı kitabıdır."
+		},
+		"2": {
+			"Header": "Felsefesi",
+			"Content": "İnsan felsefesi olarak bilinen alanın Türkiye'deki temsilcisidir. \"İnsan nedir?\" sorusu üzerine sorgulamalar yürüten bu felsefe Antik Çağ'da başlar, Immanuel Kant ile temelleri oluşturulur. Felsefi antropoloji olarak da anılan etkinlik 1930'larda Max Scheler ve Ernst Cassirer ile devam eder. Aynı dönemde, 20. yüzyılın ilk yarısında, Takiyettin Mengüşoğlu insanın kendi kendisini özel bir felsefe dalının araştırma konusu yapar. İnsanın dünyadaki yerini açıklığa kavuşturmaya çalışırken, onun hayat durumlarına odaklanmıştır. Kendisi çalıştığı alanı şöyle tanımlar: İnsanın kendisinin ne olduğunu, onun başka varlık alanlarıyla olan bağlarını; insanla birlikte varlık dünyasına katılan anlam boyutlarıyla yeni varlık seferlerinin ne olduğunu ve bunlarla insan arasındaki ilişki gibi problemlerle insanın kosmostaki yeri problemini incelemeye, anlamaya yine hiçbir bilim girişmemektedir. Doğal varlık ve tarihsel varlık alanında olduğu gibi, burada da bu problemleri incelemek felsefenin bir işidir. Biz bu problemleri inceleyen felsefe dalına “insan felsefesi”, “felsefi antropoloji”, ya da aynı anlama gelmek koşuluyla “insan ontolojisi” adını veriyoruz. Ontolojik temelli felsefi antropoloji yaptığı İonna Kuçuradi tarafından belirtilmiş Ontolojik bakış, nesne edinilenin varlık yapısını, neliğini, bağlantılarını, diğer şeylerle ilgisini ve onlardan farkını görmeye çalışan bir bakıştır şeklinde açıklanmıştır. Mengüşoğlu insanın kendisinin ne olduğu mercek altına alacak, insanın diğer varlık alanlarıyla olan ilişkileri ortaya koyacak ve insan ekseninde ortaya çıkan, yeni varlık seferlerinin neler olduğu ve onlarla insan arasındaki ilişkiler ele alacaktır."
+		},
+		"3": {
+			"Header": "Kitapları",
+			"Content": "• Kant'ın Felsefesi\n• Kant ve Scheler'de İnsan Problemi\n• İnsan Felsefesi\n• Felsefeye Giriş\n• Değişmez Değerler, Değişen Davranışlar"
+		}
+	}
+}

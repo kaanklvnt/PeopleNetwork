@@ -1,0 +1,29 @@
+{
+    "Name": "Mehmed İzzet",
+    "Desc": "Önemli bir Türk filozof, sosyolog",
+    "Period": "Islamic",
+    "Lifetime": [ 1891, 1930 ],
+    "Importance": "Low",
+    "GUI": {
+        "Position": [ 25, 245 ],
+        "Color": [ 135, 145, 255 ]
+    },
+    "Content": {
+        "0": {
+            "Header": "Temel Bilgiler",
+            "Content": "• Doğum Yeri ve Tarihi: İstanbul, Osmanlı İmparatorluğu - 1891\n• Eğitimi ve Akademik Kariyeri:\n----> Galatasaray Lisesi'nden mezun oldu (1907).\n----> Sorbonne Üniversitesi'nde felsefe eğitimi aldı ancak mezun olup olmadığı kesin değildir.\n----> Hilâliahmer Cemiyeti'nde çalıştı ve İstanbul Dârülfünunu'nda felsefe tarihi muallimliğine başladı.\n----> 1924’te profesör oldu ve felsefe, ahlâk ve sosyoloji dersleri verdi.\n----> 1928’de Paris’e kültür ataşesi olarak gönderildi, ardından Berlin’e tayin edildi.\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n----> Mehmet İzzet, özellikle ahlak felsefesi, sosyoloji ve idealizm üzerine çalışmalar yapmıştır.\n--------> Ahlak Felsefesi: Bireyin özgürlüğü ve sorumluluğu üzerine yoğunlaştı.\n--------> Sosyoloji: Ziya Gökalp ve Durkheim’in fikirlerinden etkilenerek birey-toplum ilişkisini inceledi.\n--------> İdealizm: Alman romantik filozoflarının düşüncelerini benimsedi.\n• Akademik ve Kültürel Katkıları:\n----> Türkiye’de sosyolojinin gelişmesine büyük katkı sağladı.\n----> Batı felsefesinin klasik geleneklerine bağlı kaldı ve pragmatizm gibi akımlara mesafeli yaklaştı.\n----> Din felsefesi üzerine önemli çalışmalar yaptı.\n• Önemli Eserleri:\n----> Milliyet Nazariyeleri ve Millî Hayat\n----> İçtimâiyat\n----> Kur’an ve İsyan\n----> İslâm’da Zühd\n----> Kömürcünün İmanı"
+        },
+        "1": {
+            "Header": "Hayatı",
+            "Content": "Toplumbilimci (D. 1891, İstanbul – Ö. 1939, Berlin). İlk ve ortaöğrenimini İstanbul’da, lise öğrenimini Galatasaray Sultanîsinde tamamladı. 1911’de Maarif Nezareti (Eğitim Bakanlığı) tarfından Paris’e gönderildi. Sorbonne Üniversitesi Edebiyat Fakültesinde felsefe öğrenimi gördü. 12 Ocak 1918’de ikinci kez açılan Mekteb-i Mülkiye (Siyasal Bilgiler)’ye ve Mekteb-i Tıbbiye (Tıp Fakültesi)’ye Fransızca öğretmeni olarak atandı. 1920’de Darülfünun (İstanbul Üniversitesi) Edebiyat Fakültesi felsefe müderris yardımcılığına getirildi. 1924’te profesörlüğe yükseltildi. Bu üniversitede ahlâk, felsefe tarihi ve içtimaiyat (sosyoloji, toplumbilim) dersleri okuttu. 1927’de hem yakalandığı hastalığın tedavisi hem de Almanya’daki Türk öğrencilerinin denetimi için Berlin’e gönderildi. Bu hastalıktan kurtulamayarak genç yaşta öldü. Felsefe ve toplumbilim alanındaki eserleriyle tanındı."
+        },
+        "2": {
+            "Header": "Eserleri",
+            "Content": "Yeni İçtimaiyat Dersleri (1926), Amelî Ahlâk Mebadîsi, Milliyet Nazariyeleri, Felsefe Tarihi (Almancadan çeviri)."
+        },
+        "3": {
+            "Header": "Sosyolojisi",
+            "Content": "Mehmet İzzet, sosyolojiyi toplumsal olaylara ait şüphelerini, belirsiz endişelerini bir derece azaltan son çare, bir ilaç gibi kullanır. İzzet yazılarında ilmî ve sosyolojik gözlem yaptıktan sonra lehte ve aleyhte her şeye, her kaynağa müracaat ettikten sonra yeni bir soruya, yeni bir bilinmeyene doğru yönelir. Ona göre kafanın asıl fonksiyonu hâlletmek değil, yeni düşünceler ortaya koyabilmektir. İzzet sosyolojiden olgusal bir şey olarak bahseder. Fakat amaç bir ispata ulaşmak değil, bu olumlu şeyin, olumsuz sorunlarını göstermektir. “İçtimaiyatın Noksanları” adlı makalesi bu zihnî yönelmenin yoğunlaşmış bir ürünüdür (İsmail Hakkı, 1931: 15).\nİlimlerle halledilmeyen sorunların genelde felsefeye bırakılması kanaati geçerli ise de Mehmet İzzet, bu konuda incelik ve idarecilik göstererek felsefe ile ilim arasında bir uçurum kabul etmek yönüne gitmez ve cemiyet ilminin, cemiyet felsefesi ile ilişkisini ortaya koyarak sorunu bu açıdan halletmek ister. Cemiyet ilmi de belli bir cemiyet içinde, toplumsal şartlar altında geliştiğinden toplumsal vicdanın görüntüsünü ifade eder (İzzet, 1927d, Akt: Değirmencioğlu, 2002: 262). Yani cemiyet ilminin sonuçları da diğer toplumsal olaylar gibi hâkim toplumsal görüşlerden etkilenir. Mehmet İzzet, Durkheim sosyolojisinin zorunlu bir sonucu olarak geliştirdiği bu görüşün tam bir toplumsal rölativizme kaydığı ve böylece dayanacak hiçbir temel kalmadığını hissederek sosyolojinin iddialarını yine kendi silahı ile çürütür:\n“Durkheim sosyolojisinin büyük adam görüşü çağdaş hayatta hâkim bulunan bir takım toplumsal görüşlerin sonucudur. Bu düşünceler bize gösteriyor ki, büyük adamlar hakkında bugün sosyologların ileri sürdükleri fikirler gereksiz değil, belki de bugün gözlemlenen ilimde, sanayide, siyasette, iktisatta kabul edilen genel eğilimlerin ürünüdür. İlim büyük adamın büyüklüğü ile değil, adamlığı ile meşgul olabilir. Bugünkü toplumsal akımlardır ki, ilmi gidişlerdir ki bu bilimsel bakışla yetiniyor. Bugünkü hayatta büyük adamı görmüyoruz” (İzzet, 1928: 2-7).\nBu durum bir fikir durgunluğudur. “Büyük adamların fazla olmayışının nedeni maddi ve iktisadı koşullarda değil, toplumsal, daha doğrusu siyasi koşularda aranmalıdır” diyen İzzet, Gökalp’i buna örnek verir. Ona göre Ziya Gökalp “İttihat ve Terakki Fırkası”nda vatani işlere vaktinin çoğunu ayırmamış olsaydı, daha kıymetli toplumsal eserler bırakabilirdi (İzzet, 1927e, Akt: Değirmencioğlu, 2002: 249). İzzet burada Durkheim gibi düşünerek “sosyoloji kuramsal ilim olmalı, siyaset onun uygulamasını teşkil etmelidir”der. Sosyolojinin siyaset üzerinde etkili olması için toplumun o döneme ait sorunlarıyla daha fazla meşgul olması gerekliliğinin altını çizer. Çünkü ona göre halk, eski zamanlara ait hikâyeler değil, bugünkü siyasi sorunlarına çözümler beklemektedir."
+        }
+    }
+}

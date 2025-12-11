@@ -1,0 +1,29 @@
+{
+    "Name": "Mehmed Akkirmani",
+    "Desc": "Osmanlı âlimi",
+    "Period": "Islamic",
+    "Lifetime": [ 0, 1760 ],
+    "Importance": "Low",
+    "GUI": {
+        "Position": [ -55, -175 ],
+        "Color": [ 157, 199, 159 ]
+    },
+    "Content": {
+        "0": {
+            "Header": "Temel Bilgiler",
+            "Content": "• Tam İsim: Mehmed b. Kefevi Hacı Hamid Mustafa\n• Doğum Yeri: İzmir\n• Ölüm Yeri: Mekke\n• Ekolleri: Felsefe, Kelam, Mantık, Mâtürîdîlik"
+        },
+        "1": {
+            "Header": "Hayatı",
+            "Content": "Hayatı hakkında fazla bilgi olmayan Akkirmânî İzmir, Mısır ve Mekke kadılıkları yapmıştır. Akkirmânî’nin kelâm, felsefe, hadis, fıkıh, tefsir ve dil konularında pek çok eseri, şerh ve hâşiyesi bulunmaktadır. Bu eserler arasında en göze çarpanı Kadı Mir’in, Ebherî’nin Hidâyetü’l-hikme’sine yazdığı şerhinin Türkçeye tercümesi olan İklilü’t-terâcîm ile Teftâzânî’nin Şerhu’l-Akâid’ine yazdığı hâşiyedir. 1174/1760 yılında Mekke’de vefat etmiştir."
+        },
+        "2": {
+            "Header": "Öne Çıkan Eserleri",
+            "Content": "• İklilü’t-Terâcîm. \n• Hâşiye alâ Hâşiyeti İsamiddin.\n• Ef’âlü’l-İbâd ve’l-İrâdeti’l-Cüz’iyye.\n• Hâşiye alâ Hâşiyeti Şerhi’l-Akâid."
+        },
+        "3": {
+            "Header": "Mehmed Akkirmânî'nin Ta’rîfâtü’l-fünûn ve Menâkıbü’l-musannifîn Adlı Eserinde Felsefî İlimler Algısı",
+            "Content": "Bu çalışmanın amacı, XVIII. yüzyılda Osmanlı düşünürlerinden biri olan Muhammed Akkirmânî’nin (ö. 1760) Ta’rifâtül-fünûn ve menâkibü’l-musannifin adlı eserindeki bilim anlayışını incelemektir. Mantık, felsefe, kelam, hadis ve dil gibi birçok alanda eseri olan Akkirmânî, hem âlim hem de kadı niteliğine sahiptir. Onun doğa ve metafizik düşüncesini yansıtan en meşhur eseri, İklîlü’t-Terâcim’dir. Akkirmânî’nin İslâm entelektüel geleneğinde “taksîmü’l-ulûm” şeklinde geliştirilen bilim şemalarını Ta’rifâtül-fünûn ve menâkibü’l-musannifin adlı eseri ile izlediği görülmektedir. Akkirmânî’nin mezkûr eserinin temel kaynağı, Taşköprîzâde’nin Miftâhu’s-sa’âde ve misbâhu’s-siyâde fî mevzûati’lulûm adlı eseridir. Akkirmânî, Taşköprîzâde’nin yaptığı gibi, eserinde her bir bilimin tanımını, konusunu, meselelerini, o bilimde öne çıkan belli başlı eserler ve müellifleri hakkında bilgi vermektedir. Akkirmânî, eserinde sistematik bir şekilde ilimleri inceler. O, öncelikle dil ilimleri, ardından âlet ilmi olan mantık ilmini ve felsefî ilimleri, daha sonra da şerî ilimleri (hadis, tefsir, fıkıh, fıkıh usulü ve kelâm) anlatır. Felsefî ilimleri de nazarî ve amelî şeklinde ikiye ayırır ve önce nazarî ilimleri (metafizik, fizik, matematik) ve daha sonra da amelî ilimleri (ahlâk, ev idaresi, siyaset) ele alır. Eser, XVIII. yüzyılda klasik İslâm bilim geleneğinin bir devamı olmasından dolayı dikkat çekicidir."
+        }
+    }
+}

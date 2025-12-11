@@ -1,0 +1,37 @@
+{
+	"Name": "Hasan Aydın",
+	"Desc": "Felsefe, eğitim ve dinbilim alanlarında önemli çalışmalar yapmış akademisyen",
+	"Period": "Republic",
+	"Lifetime": [ 1971, 0 ],
+	"Importance": "Mid",
+	"GUI": {
+		"Position": [ 135, 175 ],
+		"Color": [ 122, 188, 255 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Doğum Yeri ve Tarihi: Ünye, Ordu, Türkiye - 10 Mayıs 1971\n• Eğitimi ve Akademik Kariyeri:\n----> Ondokuz Mayıs Üniversitesi İlahiyat Fakültesi'nden mezun oldu.\n----> Sosyal Bilimler Enstitüsü'nde yüksek lisans yaptı (1994-1996).\n----> 2004 yılında \"Gazzâlî’nin Tanrı ve Evren Tasarımı ve Günümüze Yansımaları\" adlı çalışmasıyla doktora unvanını aldı.\n----> 2014 yılında felsefe anabilim dalında doçent, 2020 yılında profesör oldu.\n• Benimsediği Felsefi ve Düşünsel Yaklaşımlar:\n---->Hasan Aydın, özellikle İslam felsefesi, felsefe tarihi ve eğitim felsefesi alanlarında çalışmalar yapmıştır.\n--------> İslam Felsefesi: Gazzâlî ve İslam modernizmi üzerine araştırmalar yaptı.\n--------> Felsefe Tarihi: Eski Yunan’dan İslam’ın klasik çağına kadar felsefi akımları inceledi.\n--------> Eğitim Felsefesi: Yapılandırmacı eğitim anlayışı üzerine çalışmalar yürüttü.\n• Akademik ve Kültürel Katkıları:\n----> Ondokuz Mayıs Üniversitesi'nde akademik görevlerde bulundu.\n----> ODTÜ Felsefe Topluluğu’nun düzenlediği sempozyumlarda konuşmalar yaptı.\n----> Bilim ve Gelecek, Toplum ve Bilim gibi dergilerde makaleler yayımladı.\n• Önemli Eserleri:\n----> İslam Düşünce Geleneğinde Din, Felsefe ve Bilim (2005)\n----> Gazzâlî, Felsefesi ve İslam Modernizmine Etkileri (2012)\n----> Postmodern Çağda İslam ve Bilim (2008)\n----> Eski Yunan’dan İslam’ın Klasik Çağına: Neden Kavramı ve Nedensellik Sorunu (2009)\n----> Felsefi Temelleri Işığında Yapılandırmacılık (2007)"
+		},
+		"1": {
+			"Header": "Giriş",
+			"Content": "10 Mayıs 1971'de Ordu/Ünye'de[1] doğdu. İlk ve orta öğrenimini Ünye'de, yüksek öğrenimini ise Ondokuz Mayıs Üniversitesi İlahiyat Fakültesi'nde tamamladı. Üniversiteyi bitirdiği yıl, aynı üniversitenin Sosyal Bilimler Enstitüsü'ne araştırma görevlisi olarak atandı ve 1994-1996 yılları arasında yüksek lisans öğrenimini tamamladı. 1996 yılında, Malatya İkinci Ordu Komutanlığı'nda kısa dönem olarak askerlik görevini yaptı. Askerlik dönüşü, çeşitli özel okullarda ve devlet okullarında öğretmenlik yaptı."
+		},
+		"2": {
+			"Header": "Akademik Yaşamı",
+			"Content": "2001 yılında Ondokuz Mayıs Üniversitesi Sosyal Bilimler Enstitüsü'nde doktora öğrenimine başladı ve 2004 yılında \"Gazzâlî’nin Tanrı ve Evren Tasarımı ve Günümüze Yansımaları\" adlı çalışmasıyla kelâm bilim doktoru unvanını aldı. 2004 yılında Ondokuz Mayıs Üniversitesi Sinop Eğitim Fakültesi Sınıf Öğretmenliği Anabilim Dalı'na Yrd. Doç. olarak atandı. 2008'de aynı üniversitede Eğitim Fakültesi'ne, 2012 yılında ise İlahiyat Fakültesi'ne geçti. 24 Ocak 2014'te felsefe anabilim dalında doçent unvanını aldı. 13 Ocak 2020 tarihinde Ondokuz Mayıs Üniversitesi Felsefe Tarihi Anabilim Dalına Profesör olarak atandı. Çalışmaları genel olarak felsefe tarihi, İslam felsefesi, İslam teolojisi (kelâm) ve eğitim felsefesi alanlarındadır.\n\nHasan Aydın'ın halen çalışmakta olduğu Ondokuz Mayıs Üniversite'nin web sitesinde bulunan kişisel sayfalardan Bilimsel Çalışmalar adlı sayfada, Mayıs 2018 tarihi itibarıyla yer alan bilgilere göre, beşi uluslararası otuziki makale, sekiz konferans sunumu, dokuzu monografi, biri editörlük, biri akademisyen Mehmet Dağ ile ortak olmak üzere on iki kitap, sekiz konferans bildirisi, dokuz kitap bölümü ile ilgili bilgiler listelenmektedir."
+		},
+		"3": {
+			"Header": "Popüler Bilim Faaliyetleri",
+			"Content": "2013 yılında ODTÜ Felsefe Topluluğu'nun düzenlediği 1. Teoloji Sempozyumu'nda \"Kim Haklı: Teist mi, Ateist mi, Agnostik mi?\" başlıklı bir konuşma yaptı. Akademik dergilerin yanı sıra Bilim ve Ütopya, Toplum ve Bilim, İnsancıl ve Bilim ve Gelecek gibi dergilerde de makaleleri yayınlanmaktadır.\n2002 yılında Turan Dursun Araştırma ve İnceleme Ödülü'ne layık görüldü."
+		},
+		"4": {
+			"Header": "Kitapları",
+			"Content": "• İslam Düşünce Geleneğinde Din, Felsefe ve Bilim. Naturel Yayınları.\n• İslam Düşünce Geleneğinde Bilgi Kuramı (Eleştirel Bir Yaklaşım). Naturel Yayınları. \n• Gazzâlî, Felsefesi ve İslam Modernizmine Etkileri. Bilim ve Gelecek Kitaplığı. \n• Postmodern Çağda İslam ve Bilim. Bilim ve Gelecek Kitaplığı. \n• Eski Yunan’dan İslam’ın Klasik Çağına: Neden Kavramı ve Nedensellik Sorunu. Bilim ve Gelecek Kitaplığı. \n• Felsefi Temelleri Işığında Yapılandırmacılık.\n• Mitos'tan Logos'a Eski Yunan Felsefesinde Aşk, Bilim ve Gelecek Kitaplığı,\n• Felsefi Antropolojinin Işığında Hz. Muhammed ve Kuran, Bilim ve Gelecek Kitaplığı, \n• İslam Kültüründe Felsefenin Krizi ve Aydınlanma Sorunu, 333 sayfa, Bilim ve Gelecek Kitaplığı, \n• Ortaçağ İslam Kültüründe Felsefe: Akımlar, Filozoflar ve Temel Sorunlar, (Mehmet Dağ ile birlikte), 560 sayfa, Bilim ve Gelecek Kitaplığı, \n• Orta Çağ'da Sözde Aristotelesçi Yapıtlar ve Salt İyi Ya Da Nedenler Kitabı, 110 Sayfa, Bilim ve Gelecek Kitaplığı, \n• Eleştirel Aklın Işığında Postmodernizm ve Yansımaları, 310 Sayfa, 1. Baskı, Sentez Yayınları, \n• İlkçağdan Orta Çağa Doğa Tasarımları ve Nedensellik, Bilim ve Gelecek Kitaplığı.\n• Kültürel Sorunlarımız Üzerine Felsefi Sorgulamalar, Sentez Yayınları."
+		},
+		"5": {
+			"Header": "İskenderiye Yahudiliğindeki Kökleri Işığında Orta Çağ Hristiyan ve İslam Düşüncesinde Felsefenin Kökeni Sorunu",
+			"Content": "Tektanrılı dinlere mensup düşünürler, eski Yunan felsefesiyle karşılaşınca, ona yönelik birbirinden farklı tutumlar geliştirmişlerdir. Kimileri, onu putperestlik döneminin bilgeliği olarak görmüş, putperest unsurlar taşıdığı ve yabancı kökenli olduğu ve dinle çeliştiği gerekçesiyle reddetmiş; kimileri, içinde kısmi hakikatler barındırsa da, ona ihtiyatla yaklaşmak gerektiğini ileri sürmüş; kimileri ise, dinle felsefenin, farklı köklere ve yaklaşımlara sahip olsa da, felsefenin dinle çelişmediği, onunla büyük ölçüde uzlaştığı tezini benimseyip işlemiştir. Özellikle dinle felsefenin çelişmediği ve hatta uzlaştığı savını benimseyen kimi düşünüler, felsefeyle dini farklı kaynağa bağlamanın gerekmediğini, ikisinin de tanrısal bir temelinin olduğunu gösterilebileceğini düşünmüşler, bu konuda önemli mesai harcamışlardır.Bu düşünürlere göre, felsefe de tıpkı din gibi ilahi bir kaynaktan köken almaktadır; kökensel ortaklıkları bulunmaktadır. Daha doğru bir deyişle, dinsel düşünce tarihsel olarak felsefi düşünceyi öncelediği için, filozofların bu kaynaktan beslendiğini ileri sürmüşlerdir. Aslında felsefeyi tanrısal kökene bağlayan yaklaşımın ilk izleri, Pythagoras ve Sokrates-Platon geleneğinde mevcuttur ve bu gelenek felsefenin tanrıların bir armağanı olduğuna inanmaktadır. Öyle anlaşılıyor ki, felsefeyi tanrıların armağanı olarak gören bu anlayış, bir tek tanrılı din olarak felsefeyle karşılaşan İskenderiyeYahudi düşüncesinde köklü bir etki bırakmış, Yunan filozofları ile Hz. Musa’nın öğretisi arasında bağ kurulmuş, bu anlayış ardından Hıristiyan kilise babalarında gelişimini sürdürmüştür. Aynı anlayışın, Yunan filozoflarıyla Davud, Lokman, İdris gibi peygamberlerle bağ kurma yoluyla İslam düşüncesi içerisinde de bir karşılık bulduğu görülmektedir. İşte bu makale, İskenderiye Yahudi felsefesindeki kökleri ışında, felsefeyi tanrısal kökene bağlayan anlayışın, Hıristiyan ve İslam ortaçağındaki gelişimini izlemeyi ve bir değerlendirmesini yapmayı amaçlamaktadır."
+		}
+	}
+}

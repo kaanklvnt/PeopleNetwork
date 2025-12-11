@@ -1,0 +1,29 @@
+{
+	"Name": "Gelenbevi İsma'il Efendi",
+	"Desc": "Matematik ve mantık alanında çalışmalarıyla meşhur Osmanlı âlimi",
+	"Period": "Islamic",
+	"Lifetime": [ 1730, 1791 ],
+	"Importance": "Low",
+	"GUI": {
+		"Position": [ -150, 150 ],
+		"Color": [ 255, 68, 58 ]
+	},
+	"Content": {
+		"0": {
+			"Header": "Temel Bilgiler",
+			"Content": "• Tam İsim: İsmâ‘îl b. Mustafâ el- Gelenbevî er-Rûmî el- Hanefî\n• Doğum Yeri: Manisa\n• Ölüm Yeri: Yenişehir\n• Hocaları: Yâsincizâde Osman Efendi, Müftizâde Mehmed Emin Efendi\n• Etkiledikleri: Abdünnâfî Efendi\n• Ekolleri: Felsefe, Kelam, Mantık, Matematik, Yeni-Eşarîlik"
+		},
+		"1": {
+			"Header": "Hayatı",
+			"Content": "XVIII. yüzyılın en velut Osmanlı âlimlerinden olan Gelenbevî İsmâil Efendi, o dönemde Aydın vilayeti içerisinde bulunan Gelenbe kasabasında 1143/1730 yılında doğdu. Dedesi ve babası ulemadan olan Gelenbevî, küçük yaşta yetim kalmasından ötürü ilim hayatına geç başladı. İlk eğitimini kasabasında tamamladı ve İstanbul’a gelerek Soğuk Kuyu ve Fatih medreselerinde eğitimine devam etti. Dönemin büyük âlimlerinden Yâsincizâde Osman Efendi’den Arapça ve nakli ilimleri, “ayaklı kütüphane” diye ün salmış Müftizâde Mehmed Emin Efendi’den aklî ilimleri okudu. Medrese eğitimini 1177/1763’te tamamlayan Gelenbevî, ruûs imtihanını kazanarak müderris oldu. Padişahın huzurunda yapılan Huzur Dersleri’ne 1190/1776 ve 1197/1783 yıllarında iştirak etti. Matematik ve geometri alanlarındaki yetkinliğinden dolayı 1784 ya da 1785 yılında o dönem askeri denizcilik okulu olarak açılan Mühendishâne’ye matematik hocası olarak atandı. Bu görevi esnasında ilmiyedeki mesuliyetleri devam eden Gelenbevi, Eyüp Kadılığı ve sonrasında 1790 yılında şu an Yunanistan sınırları içerisinde bulunan Yenişehir Mevleviliği’ne tayin edildi. 1205/ 1791 yılında orada öldü."
+		},
+		"2": {
+			"Header": "Öne Çıkan Eserleri",
+			"Content": "• Hisâbü’l- Küsûr. \n• Burhân fî ‘İlmi’l-Mantık ve Fenni’l-Mîzân: Dârü't-Tıbâati'l-Âmire, İstanbul 1839.\n• Hâşiye ‘alâ Şerhi’l-Celâl: Matbaa-i Âmire, İstanbul 1286.\n• Resâ’ilü’l-İmtihân: Matbaa-i Âmire, İstanbul 1262.\n• Şerh-i Cedâvili’l-Ensâb.\n• Dakâ’iku’l-Beyân fî Kıbleti’l-Büldan:  Dârü't-Tıbâati'l-Âmire, İstanbul 1918/1337.\n• Risâle fî Adabi’l-Bahs."
+		},
+		"3": {
+			"Header": "Öğretisi",
+			"Content": "Otuzdan fazla eser kaleme alan Gelenbevî, bilhassa mantık, kelâm, felsefe, matematik ve geometri alanlarındaki telifatı ile temayüz etmiştir. Hem medrese geleneği içerisinde yer alması hem de o dönemde devletin askeri yenilik yapmak için kurduğu ve Avrupa’da üretilmiş mühendislik ve matematik bilgilerini İstanbul’a taşıyan Mühendishâne’de hocalık yapması ile mevcut Osmanlı ilmi birikimi ile Avrupa biliminin karşılaşmasını temsil eden isimlerdendir. Klasik İslâm cebri içerisinde değerlendirebileceğimiz ve 1786-1789 yılları arasında bir vakitte yazdığı Hisâbü’l-Küsûr ile İslâm astronomi birikimi içerisinde değerlendirebileceğimiz Dakâ’iku’l- Beyân fî kıbletü’l-büldan gibi eserleri kaleme alan Gelenbevî, XVII. yüzyılda John Napier tarafından icat edilen logaritma üzerine Osmanlı’da eser yazan ilk isimlerden birisi de olmuştur. Şerh-i Cedâvili’l-ensâb başlıklı bu eser, 1787 yılında kaleme alınmış olup Mühendishâne’de eğitim amaçlı kullanılmıştır.\n\nMantık alanında, 1763-1776 yılları arasında bir vakitte yazdığı el-Burhân fî ‘ilmi’l-mantık ve fenni’l-mîzân, yaygın bir biçimde kullanılmış ve muhtelif isimlerce üzerine şerh ve haşiyeler yazılmıştır. Kelâm alanında kaleme aldığı eserlerin başında Devvânî’nin, Îcî’nin el-‘Akâ’idü’l-Adudiyye’sine yazdığı şerhe, Hâşiye ‘alâ Şerhi’l-Celâl diye bilinen haşiyesi gelir. Adabü’l- bahs alanında Risâle fî adabi’l-bahs’ı telif eden Gelenbevî’nin muhtelif eserleri Resâ’ilü’l-imtihân başlıklı çalışmada da bulunmaktadır.\n\nİsmail Gelenbevî, nazarî ilimlerdeki yetkinliğinin yanında pratik mühendislik bilgisi ile de iştigal etmiştir. Mühendishâne’de iken oranın Fransız mühendis hocalarından Lafitte-Clavé’nin mühendislik derslerine iştirak etmiştir."
+		}
+	}
+}
